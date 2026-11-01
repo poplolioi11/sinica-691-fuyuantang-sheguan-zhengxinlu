@@ -1,0 +1,73 @@
+[
+  {
+    "id": "c090-u003-gap-000",
+    "page_id": "c090",
+    "unit_id": "c090-u003",
+    "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/7386aba7-a6bb-4ec5-89bd-56d8f22adca8/full/full/0/default.jpg",
+    "source_sha256": "4de51ab547bbaea6f03dbe5d86b9e5fef317d7453420b08f775884ea3f5d652c",
+    "bbox": [
+      248,
+      880,
+      435,
+      1120
+    ],
+    "cause": "reading-unresolved",
+    "extent": "unknown",
+    "reason": "深筆與淡反向字重疊，局部似水旁與共形，但無法確立為本頁前景單字，保留洪候選而不混入正文。",
+    "candidates": [
+      "洪",
+      "透印與覆紙邊界殘痕"
+    ]
+  },
+  {
+    "id": "c090-u004-gap-000",
+    "page_id": "c090",
+    "unit_id": "c090-u004",
+    "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/7386aba7-a6bb-4ec5-89bd-56d8f22adca8/full/full/0/default.jpg",
+    "source_sha256": "4de51ab547bbaea6f03dbe5d86b9e5fef317d7453420b08f775884ea3f5d652c",
+    "bbox": [
+      210,
+      830,
+      1870,
+      3570
+    ],
+    "cause": "reading-unresolved",
+    "extent": "unknown",
+    "reason": "大部分可見字及欄線為反向透印，個別極淡痕的前景／背印歸屬不足，無可獨立確認連續正面字串，不能據此宣稱全空。",
+    "candidates": []
+  },
+  {
+    "id": "c090-u005-gap-000",
+    "page_id": "c090",
+    "unit_id": "c090-u005",
+    "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/7386aba7-a6bb-4ec5-89bd-56d8f22adca8/full/full/0/default.jpg",
+    "source_sha256": "4de51ab547bbaea6f03dbe5d86b9e5fef317d7453420b08f775884ea3f5d652c",
+    "bbox": [
+      1450,
+      850,
+      1870,
+      3550
+    ],
+    "cause": "reading-unresolved",
+    "extent": "unknown",
+    "reason": "右側連續刷墨、斜擦與點狀轉印遮混，沒有可定字界；是否掩去原字及其數量未知。",
+    "candidates": []
+  },
+  {
+    "id": "c094-u003-gap-000",
+    "page_id": "c094",
+    "unit_id": "c094-u003",
+    "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/94c9c09b-cfda-4538-9c99-cc56a9bd862f/full/full/0/default.jpg",
+    "source_sha256": "16f653ef0af90a89694c248cc1f5972c26d5399f96f0d9183ee663990ee1d5ed",
+    "bbox": [
+      960,
+      805,
+      1650,
+      3570
+    ],
+    "cause": "reading-unresolved",
+    "extent": "unknown",
+    "reason": "深墨擦痕與細殘筆混合反向透印，無法可靠分離前景或確認應錄字數，不能宣告空白。",
+    "candidates": []
+  }
+]

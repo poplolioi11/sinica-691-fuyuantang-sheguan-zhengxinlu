@@ -1,0 +1,264 @@
+page	unit	needle	span_start	span_end	candidates	reason	source_image
+c001	c001-u007	□	0	1	洋／羊	題簽斜向撕失，僅餘羊形下半，不見左偏旁	https://iiif.bodleian.ox.ac.uk/iiif/image/ce66a293-1f9d-404f-8c9f-ddc8f3bcdc33/full/full/0/default.jpg
+c003	c003-u008	蘗	19	20	蘗／蘖	飲下罕字上部細筆缺墨，木形底部可見而薜／薛構件不能完全排除	https://iiif.bodleian.ox.ac.uk/iiif/image/c31e4d78-31d7-459b-b7e9-9b59e0372eae/full/full/0/default.jpg
+c003	c003-u009	輔元堂徵信錄	0	6	輔元堂徵信錄	版心近左裁邊，少數偏旁局部切去，保留來源限制	https://iiif.bodleian.ox.ac.uk/iiif/image/c31e4d78-31d7-459b-b7e9-9b59e0372eae/full/full/0/default.jpg
+c004	c004-u001	支部	9	11	支部／支郡／支郤	末字右阝形可見，左上細筆不足，不能以親屬詞義補定	https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg
+c004	c004-u002	櫬	16	17	櫬／棺	左木明確，右部筆畫省連，暫錄櫬仍保留棺	https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg
+c004	c004-u003	詣	12	13	詣／指	右旨可見而左旁墨污，言／扌不能排除	https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg
+c004	c004-u006	摯	1	2	摯／摰	上部細畫不明，未按詞形統一	https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg
+c004	c004-u009	輔元堂徵信錄	0	6	輔元堂徵信錄／輔元堂賒棺局	右折口僅字形一側，無法逐字完整確認	https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg
+c004	c004-u010	□	0	1	二／一	右折口頁記僅一段橫畫可見，不依頁序補定	https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg
+c005	c005-u003	土	10	11	土／上	細橫位置受行書連接影響，未完全排除上	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c005	c005-u004	壬	17	18	壬／主	頂筆短而斜、下三層橫，頂筆與點的差別不穩；不按干支補定	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c005	c005-u006	輔元堂徵信錄	0	6	輔元堂徵信錄	左折口裁去各字一部分	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c005	c005-u009	□□	0	2		上印右列上下各一篆字，曲折篆形無法可靠轉寫	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c005	c005-u010	□□	0	2		上印左列上下各一篆字，字形未解	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c005	c005-u011	□□	0	2		下印右列上下各一篆字，細白文不足可靠轉寫	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c005	c005-u012	□□	0	2		下印左列上下各一篆字，兩個可見字位未解	https://iiif.bodleian.ox.ac.uk/iiif/image/b3f70b58-8347-4021-a4f3-337f5244ca38/full/full/0/default.jpg
+c006	c006-u001	輔元堂徵信錄	0	6	輔元堂徵信錄	右折口各字右側裁去，按所存部件暫錄	https://iiif.bodleian.ox.ac.uk/iiif/image/eeb9dd96-cd62-4c40-a2a2-715566b4fcef/full/full/0/default.jpg
+c006	c006-u002	□	0	1		魚尾下源件裁切，僅存一長彎筆，字數未知，不據相鄰頁補序	https://iiif.bodleian.ox.ac.uk/iiif/image/eeb9dd96-cd62-4c40-a2a2-715566b4fcef/full/full/0/default.jpg
+c007	c007-u003	烇	12	13	烇／烓	右部人形頂及下王較支持烇，細上筆仍與圭近，保留烓	https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg
+c007	c007-u003	灝	14	15	灝／瀚／瀨	右頁形可見，中部密筆尚不足完全排除候選	https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg
+c007	c007-u007	茅	18	19	茅／旁	頂似艹、下似矛，但上部細筆仍保留旁候選	https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg
+c007	c007-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左裁邊有偏旁缺筆	https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg
+c008	c008-u001	賜	0	1	賜／腸	首字左部較窄，下足細筆不足完全排除月旁	https://iiif.bodleian.ox.ac.uk/iiif/image/e7188d46-dfab-4681-9ae7-9822abdcd321/full/full/0/default.jpg
+c008	c008-u009	輔元堂徵信錄	0	6	輔元堂徵信錄	右折口字形右半裁切	https://iiif.bodleian.ox.ac.uk/iiif/image/e7188d46-dfab-4681-9ae7-9822abdcd321/full/full/0/default.jpg
+c009	c009-u010	脩膳	19	21	脩膳／修膳	脩右下細內橫淡，與彡省筆尚未完全排除	https://iiif.bodleian.ox.ac.uk/iiif/image/a96d1e2d-d72d-45cc-aef5-5afbedae4257/full/full/0/default.jpg
+c009	c009-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左版心偏旁部分裁邊	https://iiif.bodleian.ox.ac.uk/iiif/image/a96d1e2d-d72d-45cc-aef5-5afbedae4257/full/full/0/default.jpg
+c009	c009-u013	二	0	1	二／三	頁記僅靠左裁邊的橫端，源件限制保留三候選	https://iiif.bodleian.ox.ac.uk/iiif/image/a96d1e2d-d72d-45cc-aef5-5afbedae4257/full/full/0/default.jpg
+c010	c010-u008	邀	19	20	邀／遜	末字淡印中內部細筆未完全可辨，留近形候選	https://iiif.bodleian.ox.ac.uk/iiif/image/96bc9949-1d08-458e-bc44-44ffa8ccd657/full/full/0/default.jpg
+c010	c010-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	右折口裁邊，部分右筆不存	https://iiif.bodleian.ox.ac.uk/iiif/image/96bc9949-1d08-458e-bc44-44ffa8ccd657/full/full/0/default.jpg
+c011	c011-u007	欖	12	13	欖／櫬	木旁右上雙斜叉、右下見狀，均不能完整支持監或親；暫列欖並保留櫬，可能尚有其他字	https://iiif.bodleian.ox.ac.uk/iiif/image/b9f6ec75-d5e0-49fa-a4ae-80d6f6c0771c/full/full/0/default.jpg
+c011	c011-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左折口偏旁缺邊	https://iiif.bodleian.ox.ac.uk/iiif/image/b9f6ec75-d5e0-49fa-a4ae-80d6f6c0771c/full/full/0/default.jpg
+c011	c011-u013	三	0	1	三／二	左裁邊頁記筆端不完整	https://iiif.bodleian.ox.ac.uk/iiif/image/b9f6ec75-d5e0-49fa-a4ae-80d6f6c0771c/full/full/0/default.jpg
+c012	c012-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	右折口各字裁邊不完整	https://iiif.bodleian.ox.ac.uk/iiif/image/51ecb995-3762-4448-9180-79cf5395abb4/full/full/0/default.jpg
+c013	c013-u002	摺	13	14	摺／搨	右上羽形較支持摺，右下細框仍淡，保留搨待覆核	https://iiif.bodleian.ox.ac.uk/iiif/image/1d31c0a4-6911-4377-9353-db66ca8cdb91/full/full/0/default.jpg
+c013	c013-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左折口字形左側裁失	https://iiif.bodleian.ox.ac.uk/iiif/image/1d31c0a4-6911-4377-9353-db66ca8cdb91/full/full/0/default.jpg
+c013	c013-u013	□	0	1		版心頁碼位置僅邊緣墨筆，不能確認完整字，extent unknown	https://iiif.bodleian.ox.ac.uk/iiif/image/1d31c0a4-6911-4377-9353-db66ca8cdb91/full/full/0/default.jpg
+c014	c014-u010	脩	10	11	脩／修	左亻中豎右攵可見，右下細竪似月但內橫淡，保留修近形；不依食膳慣例補字	https://iiif.bodleian.ox.ac.uk/iiif/image/6aabc574-2c69-44f8-8328-f1bae4117e19/full/full/0/default.jpg
+c014	c014-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	右版心裁邊不完整	https://iiif.bodleian.ox.ac.uk/iiif/image/6aabc574-2c69-44f8-8328-f1bae4117e19/full/full/0/default.jpg
+c015	c015-u009	輔元堂徵信錄	0	6	輔元堂徵信錄	左版心左緣部分偏旁裁去	https://iiif.bodleian.ox.ac.uk/iiif/image/f44ac6f7-5db7-4a2c-9548-1ace31012e3e/full/full/0/default.jpg
+c016	c016-u001	輔元堂徵信錄	0	6	輔元堂徵信錄	右折口多字只餘最左部件，整串不能完整獨立確認	https://iiif.bodleian.ox.ac.uk/iiif/image/02d6b200-ba64-4e0e-839a-607452655fa3/full/full/0/default.jpg
+c016	c016-u002	五	0	1	五／三	中下橫之間有斜連筆偏向五，右半裁切仍留三候選	https://iiif.bodleian.ox.ac.uk/iiif/image/02d6b200-ba64-4e0e-839a-607452655fa3/full/full/0/default.jpg
+c017	c017-u001	紀錄十次	18	22	紀錄十次／紀錄十六	末字墨淡僅存數短筆及右捺，未足排除六	https://iiif.bodleian.ox.ac.uk/iiif/image/aa00a7ca-0011-4e69-bcf8-b3626f004a4b/full/full/0/default.jpg
+c017	c017-u003	烇	19	20	烇／烓	右上人形下王支持烇，但頂細筆仍保留圭近形烓；煇煜燿的軍日翟無對應構件	https://iiif.bodleian.ox.ac.uk/iiif/image/aa00a7ca-0011-4e69-bcf8-b3626f004a4b/full/full/0/default.jpg
+c017	c017-u004	灝	1	2	灝／瀨	右頁與中部日小形偏灝，密筆仍保留瀨候選	https://iiif.bodleian.ox.ac.uk/iiif/image/aa00a7ca-0011-4e69-bcf8-b3626f004a4b/full/full/0/default.jpg
+c017	c017-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左折口偏旁部分裁邊	https://iiif.bodleian.ox.ac.uk/iiif/image/aa00a7ca-0011-4e69-bcf8-b3626f004a4b/full/full/0/default.jpg
+c018	c018-u008	輔元堂徵信錄	0	6	輔元堂徵信錄	右版心右半裁邊	https://iiif.bodleian.ox.ac.uk/iiif/image/0b77ddbf-c57e-4d6d-b73f-c737633fd04c/full/full/0/default.jpg
+c019	c019-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左版心有偏旁裁邊	https://iiif.bodleian.ox.ac.uk/iiif/image/3eb1f985-0b85-4190-bbe1-7b7b59e21b7f/full/full/0/default.jpg
+c020	c020-u002	忤作	6	8	忤作／仵作	左旁見長豎與兩側短點偏忄，按源字暫讀忤，保留仵近形；不按職業詞改字	https://iiif.bodleian.ox.ac.uk/iiif/image/a3f818fc-b842-49ed-8ef3-81d112a76a74/full/full/0/default.jpg
+c020	c020-u007	輔元堂徵信錄	0	6	輔元堂徵信錄	右版心部分右筆裁邊	https://iiif.bodleian.ox.ac.uk/iiif/image/a3f818fc-b842-49ed-8ef3-81d112a76a74/full/full/0/default.jpg
+c021	c021-u002	乙巳	3	5	乙巳／乙己／乙已	第二字左豎只到中段以上，頂部開口與中橫接法難排巳／己／已；不因干支常式補定	https://iiif.bodleian.ox.ac.uk/iiif/image/fe5733b7-3465-429a-a2a9-77915b091e47/full/full/0/default.jpg
+c021	c021-u009	忤作	0	2	忤作／仵作	左旁長豎與兩側短筆偏忄，按源形暫錄忤，仍留仵；不按職業詞正規化	https://iiif.bodleian.ox.ac.uk/iiif/image/fe5733b7-3465-429a-a2a9-77915b091e47/full/full/0/default.jpg
+c021	c021-u011	輔元堂徵信錄	0	6	輔元堂徵信錄	左版心偏旁裁邊	https://iiif.bodleian.ox.ac.uk/iiif/image/fe5733b7-3465-429a-a2a9-77915b091e47/full/full/0/default.jpg
+c022	c022-u001	賒	0	1	賒／賖	右部下方細畫仍不能完全排除余形。	https://iiif.bodleian.ox.ac.uk/iiif/image/200cf906-629e-4607-a3ac-b37a0ff0ad29/full/full/0/default.jpg
+c023	c023-u018	棟	2	3	棟／楝	右件兩側細筆尚不足排除柬形。	https://iiif.bodleian.ox.ac.uk/iiif/image/edb7c609-cd20-47ae-baf6-1d343c5c94b9/full/full/0/default.jpg
+c024	c024-u007	栩	2	3	栩／柵	右件兩竪帶內短筆較像羽，仍有淺刻相連處。	https://iiif.bodleian.ox.ac.uk/iiif/image/09739681-bafd-4ee9-b8b4-ba035631763d/full/full/0/default.jpg
+c025	c025-u004	恒	17	18	恒／恆	忄旁右件中部淺刻，保留兩種字形。	https://iiif.bodleian.ox.ac.uk/iiif/image/b49904d6-815f-45c6-a409-711882dfa083/full/full/0/default.jpg
+c025	c025-u012	□	0	1	十	原頁碼裁邊僅見一橫，不依頁序補足。	https://iiif.bodleian.ox.ac.uk/iiif/image/b49904d6-815f-45c6-a409-711882dfa083/full/full/0/default.jpg
+c026	c026-u002	輔元堂徵信錄	0	6	輔元堂徵信錄	右邊緣書名右半部分被裁切，所餘字形可辨。	https://iiif.bodleian.ox.ac.uk/iiif/image/14b955d8-1bd9-4d35-875a-ddc5670d5389/full/full/0/default.jpg
+c026	c026-u003	十	0	1	十	原頁碼右側裁邊，但一橫一豎可見。	https://iiif.bodleian.ox.ac.uk/iiif/image/14b955d8-1bd9-4d35-875a-ddc5670d5389/full/full/0/default.jpg
+c027	c027-u004	豈	1	2	豈／豐	上端山形可見，但內部缺墨，保留豐候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/84468879-fa59-415f-b091-7a3cd88d2d21/full/full/0/default.jpg
+c029	c029-u011	□	0	1	十	首字只見右伸橫筆，左側含交點裁失，不足確定十；第二字兩橫可讀二。	https://iiif.bodleian.ox.ac.uk/iiif/image/a0a8900e-6adb-4b3f-a20f-1ce44518351b/full/full/0/default.jpg
+c032	c032-u004	繡	7	8	繡／繍	原刻糸旁右件複雜，暫以繡表示。	https://iiif.bodleian.ox.ac.uk/iiif/image/a3636470-a1ae-47aa-8647-4108afa48199/full/full/0/default.jpg
+c032	c032-u016	樹	0	1	樹／衍	堂名前字左旁刻畫斷裂，暫讀樹。	https://iiif.bodleian.ox.ac.uk/iiif/image/a3636470-a1ae-47aa-8647-4108afa48199/full/full/0/default.jpg
+c033	c033-u008	虧	1	2	虧／虧之異體	右下鉤畫與左部刻形特殊，保留原形待字形核定。	https://iiif.bodleian.ox.ac.uk/iiif/image/35c4c049-62c8-4e22-b78f-8441ea390775/full/full/0/default.jpg
+c033	c033-u011	□	0	1	十	左版心首字僅殘橫，交點裁失；次字四右框與內筆尚見。	https://iiif.bodleian.ox.ac.uk/iiif/image/35c4c049-62c8-4e22-b78f-8441ea390775/full/full/0/default.jpg
+c034	c034-u001	輔元堂徵信錄	0	6	輔元堂徵信錄	書名右側被紙邊裁去，首字等僅見左部。	https://iiif.bodleian.ox.ac.uk/iiif/image/f592508e-6067-4113-91b1-8a7340fc8979/full/full/0/default.jpg
+c034	c034-u002	十四	0	2	十四	原頁碼只餘左部筆畫，暫據可見殘筆讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/f592508e-6067-4113-91b1-8a7340fc8979/full/full/0/default.jpg
+c035	c035-u013	畬	6	7	畬／畲	人下余或示的細筆不清。	https://iiif.bodleian.ox.ac.uk/iiif/image/8eb8cb90-3df4-47ca-891e-6968ae129334/full/full/0/default.jpg
+c035	c035-u016	□	0	1	十	頁碼首字交點落裁邊外，只見橫端，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/8eb8cb90-3df4-47ca-891e-6968ae129334/full/full/0/default.jpg
+c036	c036-u009	衍	1	2	衍／行	堂名第二字中間筆畫細淺，暫讀衍。	https://iiif.bodleian.ox.ac.uk/iiif/image/efca42c6-7d94-4d1b-ab81-cb7bfbec9a46/full/full/0/default.jpg
+c037	c037-u001	劉	0	1	劉／劉之異體	右刀旁在書縫陰影邊，保留字形疑問。	https://iiif.bodleian.ox.ac.uk/iiif/image/ea3d0779-13de-4810-80db-d4dfd571f6ae/full/full/0/default.jpg
+c037	c037-u001	頤	13	14	頤／頣	書縫遮部分右筆。	https://iiif.bodleian.ox.ac.uk/iiif/image/ea3d0779-13de-4810-80db-d4dfd571f6ae/full/full/0/default.jpg
+c037	c037-u007	綾	10	11	綾／緞／線	糸旁清楚，右上多橫呈框而右下交叉撇捺；綾與緞仍需辨，線泉形不明顯。暫存初錄綾，不作已定。	https://iiif.bodleian.ox.ac.uk/iiif/image/ea3d0779-13de-4810-80db-d4dfd571f6ae/full/full/0/default.jpg
+c037	c037-u009	韻	0	1	韻／讀	左上立形較支持音，右件淺墨，讀候選尚留。	https://iiif.bodleian.ox.ac.uk/iiif/image/ea3d0779-13de-4810-80db-d4dfd571f6ae/full/full/0/default.jpg
+c039	c039-u005	靄	1	2	靄／靄之異體	雨下言曷形可辨，細刻與通行字形稍異。	https://iiif.bodleian.ox.ac.uk/iiif/image/1668fbe4-cc81-4669-8317-3bf79d7144d4/full/full/0/default.jpg
+c039	c039-u006	瀛	9	10	瀛／瀾	右部密集細筆仍淺。	https://iiif.bodleian.ox.ac.uk/iiif/image/1668fbe4-cc81-4669-8317-3bf79d7144d4/full/full/0/default.jpg
+c039	c039-u007	綢	10	11	綢／絢	右周內部土口分筆缺墨，保留絢候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/1668fbe4-cc81-4669-8317-3bf79d7144d4/full/full/0/default.jpg
+c040	c040-u002	十七	0	2	十七／二十	右裁邊只剩橫與豎折部分，偏十七而未排其他候選	https://iiif.bodleian.ox.ac.uk/iiif/image/1a2dfce9-0fa1-459d-9e68-c50af67b23cc/full/full/0/default.jpg
+c040	c040-u004	繡	1	2	繡	糸旁及右肅多細筆墨淡，暫讀	https://iiif.bodleian.ox.ac.uk/iiif/image/1a2dfce9-0fa1-459d-9e68-c50af67b23cc/full/full/0/default.jpg
+c040	c040-u010	椿	4	5	椿／楞	右部下日及上多橫偏春，部分細筆缺墨	https://iiif.bodleian.ox.ac.uk/iiif/image/1a2dfce9-0fa1-459d-9e68-c50af67b23cc/full/full/0/default.jpg
+c041	c041-u001	余震生坊	11	15	余震生坊／余震生坤／余震生坋	末字右部在頁縫裁折，土旁清楚，右部不足定字	https://iiif.bodleian.ox.ac.uk/iiif/image/b3b634ef-38f0-40e6-a4f6-9a4fdb1fc554/full/full/0/default.jpg
+c041	c041-u012	七	0	1	七／廿	左邊界僅存部分交叉鉤筆，亦可能有未攝前置頁記，extent unknown	https://iiif.bodleian.ox.ac.uk/iiif/image/b3b634ef-38f0-40e6-a4f6-9a4fdb1fc554/full/full/0/default.jpg
+c042	c042-u002	十八	0	2	十八／二□	右側紙緣截去頁數部分筆畫，僅暫存所見十與八形，不用鄰頁推補。	https://iiif.bodleian.ox.ac.uk/iiif/image/ad2b7141-ccf3-4648-b636-507143948344/full/full/0/default.jpg
+c043	c043-u012	九	0	1	九／□九	左裁邊是否尚有前字不明。	https://iiif.bodleian.ox.ac.uk/iiif/image/1558c08f-0a15-41d5-b90d-5d6034e0814b/full/full/0/default.jpg
+c044	c044-u002	□	0	1	二□／□	右側頁碼被邊緣切去，字數與完整筆畫不可定，不以頁序補字。	https://iiif.bodleian.ox.ac.uk/iiif/image/59cde794-ce19-4f43-9c8f-882c64851c85/full/full/0/default.jpg
+c045	c045-u012	□	0	1	二□／□	頁碼裁邊僅橫畫與局部豎筆，完整字及字數未明。	https://iiif.bodleian.ox.ac.uk/iiif/image/7469577a-a80c-4d21-8474-37355a12f9ab/full/full/0/default.jpg
+c046	c046-u002	□	0	1	□三／□	頁數裁邊三橫尚見但與截字豎筆交混，完整字數不明。	https://iiif.bodleian.ox.ac.uk/iiif/image/19834e70-7f40-46f5-84ae-05f104c2ef43/full/full/0/default.jpg
+c046	c046-u009	鏞	6	7	鏞／鑛	右部廣與庸的細橫相近；現見中央豎與月框支持庸，但細線漫漶仍留鑛。	https://iiif.bodleian.ox.ac.uk/iiif/image/19834e70-7f40-46f5-84ae-05f104c2ef43/full/full/0/default.jpg
+c047	c047-u012	三	0	1	三／□三	左裁邊僅三的右側橫畫可錄，有無前字不能定。	https://iiif.bodleian.ox.ac.uk/iiif/image/52aec233-01ba-4f06-89da-603a4e18fe30/full/full/0/default.jpg
+c048	c048-u002	□	0	1		右版心頁碼裁邊，字數與完整字形未明。	https://iiif.bodleian.ox.ac.uk/iiif/image/79e1df29-ec26-40a2-8fa6-577d677836ad/full/full/0/default.jpg
+c048	c048-u010	銃	2	3	銃／銳	金旁右上似亠，中厶與兌的口形漫漶，暫讀銃，銳未能完全排除。	https://iiif.bodleian.ox.ac.uk/iiif/image/79e1df29-ec26-40a2-8fa6-577d677836ad/full/full/0/default.jpg
+c049	c049-u013	五	0	1	五／□	左側截去部分筆畫，暫錄五形，不能確定原頁數完整形式。	https://iiif.bodleian.ox.ac.uk/iiif/image/d2638979-acdb-4eee-96dc-8317f5e71279/full/full/0/default.jpg
+c050	c050-u002	□	0	1		右版心裁切，完整字數未明。	https://iiif.bodleian.ox.ac.uk/iiif/image/6586520b-3d58-4c17-bd57-7635ec480213/full/full/0/default.jpg
+c050	c050-u005	篳	10	11	篳／簟／籜	竹下框、橫及貫豎密集，暫讀篳；覀日與扌睪的分界仍不足。篥木底、籛雙戈、籌寸底未見。	https://iiif.bodleian.ox.ac.uk/iiif/image/6586520b-3d58-4c17-bd57-7635ec480213/full/full/0/default.jpg
+c051	c051-u003	睂	2	3	睂／眉	上部左斜筆與右直折似睂異體，不能完全排除眉的刻體，保留兩種字形映射。	https://iiif.bodleian.ox.ac.uk/iiif/image/a8759f8d-a305-44c9-b389-011d58555155/full/full/0/default.jpg
+c051	c051-u012	□	0	1		左版心頁碼裁邊，完整字數不明。	https://iiif.bodleian.ox.ac.uk/iiif/image/a8759f8d-a305-44c9-b389-011d58555155/full/full/0/default.jpg
+c052	c052-u002	□	0	1		右版心頁數裁缺，完整字數未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/9eb9c5e5-cf77-4dbc-baf8-b4776bb98613/full/full/0/default.jpg
+c052	c052-u006	靄	4	5	靄／藹	下部言曷可見，上方小橫與豎印淺，雨頭暫讀仍留艹頭可能。	https://iiif.bodleian.ox.ac.uk/iiif/image/9eb9c5e5-cf77-4dbc-baf8-b4776bb98613/full/full/0/default.jpg
+c052	c052-u008	夔	8	9	夔	密筆糊合，暫錄夔；下部交叉分撇及上部複雜形支持，未能逐細筆確認。	https://iiif.bodleian.ox.ac.uk/iiif/image/9eb9c5e5-cf77-4dbc-baf8-b4776bb98613/full/full/0/default.jpg
+c053	c053-u001	薌	3	4	薌／蘅	艹下左幺可見，右邊書口彎曲遮細畫，暫讀薌仍留蘅。	https://iiif.bodleian.ox.ac.uk/iiif/image/489a2651-de08-414d-b640-9759e892f4cb/full/full/0/default.jpg
+c053	c053-u012	□	0	1		左側版心頁碼截斷，完整字數未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/489a2651-de08-414d-b640-9759e892f4cb/full/full/0/default.jpg
+c054	c054-u002	□	0	1		右側頁碼裁缺，完整字數未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/91c21023-0644-4f29-ba95-2e1890221776/full/full/0/default.jpg
+c054	c054-u006	今	2	3	今／兮	頂端兩斜筆近接，下方折鉤較清；頂內小橫與點的關係不足，暫今、保留兮，不用姓名推斷。	https://iiif.bodleian.ox.ac.uk/iiif/image/91c21023-0644-4f29-ba95-2e1890221776/full/full/0/default.jpg
+c055	c055-u015	□五	0	2	二五／三五／□五	左側裁邊截去頁數前字，僅橫末與五形，不能按頁序定讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/11a780de-3423-4cd6-a25d-f569a1a7c1fb/full/full/0/default.jpg
+c056	c056-u002	□	0	1		右版心裁缺，完整字數未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/5cd6b2b5-ccef-4621-b606-09272355e684/full/full/0/default.jpg
+c056	c056-u003	疇	2	3	疇／□	右部壽清楚，左狹框的中豎與日／田區別不清；暫沿候選疇，亦保留日旁壽形而未定字的可能。	https://iiif.bodleian.ox.ac.uk/iiif/image/5cd6b2b5-ccef-4621-b606-09272355e684/full/full/0/default.jpg
+c056	c056-u007	碗	8	9	碗／椀	左旁淡筆似橫撇下小口，暫碗；石口與木的分筆仍不能完全排除。	https://iiif.bodleian.ox.ac.uk/iiif/image/5cd6b2b5-ccef-4621-b606-09272355e684/full/full/0/default.jpg
+c057	c057-u067	□	0	1		左版心頁碼裁切，完整字數未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/e183569a-1512-4ff0-b6bd-6b556916f36c/full/full/0/default.jpg
+c058	c058-u002	□	0	1		版心裁缺，完整頁數未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/0b40bab5-1489-4773-80ca-9bd8b6923e25/full/full/0/default.jpg
+c058	c058-u028	一千三百二十文	2	9	一千三百二十文／一千二百二十文	千後短橫及百頂橫擠近，暫將三橫讀三，不能完全排除第三橫屬百字而為二。保留數字疑義。	https://iiif.bodleian.ox.ac.uk/iiif/image/0b40bab5-1489-4773-80ca-9bd8b6923e25/full/full/0/default.jpg
+c058	c058-u032	一千三百二十文	2	9	一千三百二十文／一千二百二十文	千後短橫及百頂橫擠近，暫將三橫讀三，不能完全排除第三橫屬百字而為二。保留數字疑義。	https://iiif.bodleian.ox.ac.uk/iiif/image/0b40bab5-1489-4773-80ca-9bd8b6923e25/full/full/0/default.jpg
+c058	c058-u036	一千三百二十文	2	9	一千三百二十文／一千二百二十文	千後短橫及百頂橫擠近，暫將三橫讀三，不能完全排除第三橫屬百字而為二。保留數字疑義。	https://iiif.bodleian.ox.ac.uk/iiif/image/0b40bab5-1489-4773-80ca-9bd8b6923e25/full/full/0/default.jpg
+c058	c058-u061	裔	2	3	裔／窩	下方冏形支持裔，上部衣／穴的筆畫在書縫側有淡缺；不依堂號慣例。	https://iiif.bodleian.ox.ac.uk/iiif/image/0b40bab5-1489-4773-80ca-9bd8b6923e25/full/full/0/default.jpg
+c058	c058-u062	正至□月	0	4	正至六月／正至八月／正月至	正至及其下月形可見，中間淡墨與透印混合，不能確定是否另有數字，不依相鄰十月推改。	https://iiif.bodleian.ox.ac.uk/iiif/image/0b40bab5-1489-4773-80ca-9bd8b6923e25/full/full/0/default.jpg
+c059	c059-u002	□□至	0	3	正月至	書口遮日期右半，兩字不足獨立定讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/991121a1-cde1-4516-9b2c-6e1ab28afbd6/full/full/0/default.jpg
+c059	c059-u004	睂	2	3	睂／眉	上部異體分筆暫錄睂，保留眉映射。	https://iiif.bodleian.ox.ac.uk/iiif/image/991121a1-cde1-4516-9b2c-6e1ab28afbd6/full/full/0/default.jpg
+c059	c059-u032	□□至	0	3	正月至	另一下層日期右半亦入書口，不借上層或鄰欄補。	https://iiif.bodleian.ox.ac.uk/iiif/image/991121a1-cde1-4516-9b2c-6e1ab28afbd6/full/full/0/default.jpg
+c059	c059-u052	寳	1	2	寳／寶	宀下右部尓／缶密筆未全分清。	https://iiif.bodleian.ox.ac.uk/iiif/image/991121a1-cde1-4516-9b2c-6e1ab28afbd6/full/full/0/default.jpg
+c059	c059-u062	三□	0	2	三二／三三	頁數左界裁缺，未按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/991121a1-cde1-4516-9b2c-6e1ab28afbd6/full/full/0/default.jpg
+c060	c060-u016	侶	2	3	侶／侣	人旁雙口可見，中間連接小撇較淡，保留異體映射。	https://iiif.bodleian.ox.ac.uk/iiif/image/0579c191-9a0f-48e1-b6f4-197b1a371f22/full/full/0/default.jpg
+c060	c060-u059	參月	0	2	參月／叁月	上部厶疊筆與款式字形有省筆，暫錄參，未作數字正規化。	https://iiif.bodleian.ox.ac.uk/iiif/image/0579c191-9a0f-48e1-b6f4-197b1a371f22/full/full/0/default.jpg
+c060	c060-u061	三□	0	2	三十／三二	頁碼右側裁切，末字未定。	https://iiif.bodleian.ox.ac.uk/iiif/image/0579c191-9a0f-48e1-b6f4-197b1a371f22/full/full/0/default.jpg
+c061	c061-u002	益	1	2	益／孟	皿底可見，上部筆勢仍不足排除孟。	https://iiif.bodleian.ox.ac.uk/iiif/image/83ea72fd-cdc5-48cd-ba5e-9a54d0bd0984/full/full/0/default.jpg
+c061	c061-u050	□	1	2	斌／賦／貳／岱	齋名中字繁筆與斜鉤可見，部件界線未能排除全部候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/83ea72fd-cdc5-48cd-ba5e-9a54d0bd0984/full/full/0/default.jpg
+c061	c061-u056	三□	0	2	三三／三八／三六	第二數字受折曲淡墨，保持未解。	https://iiif.bodleian.ox.ac.uk/iiif/image/83ea72fd-cdc5-48cd-ba5e-9a54d0bd0984/full/full/0/default.jpg
+c062	c062-u016	賖	10	11	賖／賒／除	左部淡墨框腳及右下小形支持賖，仍未完全排除所列候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/111f0dd3-8281-4af0-b7dc-5df14b5eb853/full/full/0/default.jpg
+c062	c062-u019	賖	12	13	賖／賒／除	左部淡墨框腳及右下小形支持賖，仍未完全排除所列候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/111f0dd3-8281-4af0-b7dc-5df14b5eb853/full/full/0/default.jpg
+c062	c062-u022	賖	10	11	賖／賒／除	左部淡墨框腳及右下小形支持賖，仍未完全排除所列候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/111f0dd3-8281-4af0-b7dc-5df14b5eb853/full/full/0/default.jpg
+c062	c062-u028	三□	0	2	三八／三六／三三	版心第二數字裁切。	https://iiif.bodleian.ox.ac.uk/iiif/image/111f0dd3-8281-4af0-b7dc-5df14b5eb853/full/full/0/default.jpg
+c063	c063-u016	□七	0	2	三七	版心上數字左側裁切，末七可辨，不補十。	https://iiif.bodleian.ox.ac.uk/iiif/image/b0b34110-b63e-440d-b868-866ce387d2df/full/full/0/default.jpg
+c064	c064-u004	槻	1	2	槻／槐／橇／棁	木旁清楚，右部上下疊筆與兒形仍不足分清，保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/a98798f7-4eb8-4d4c-aa73-366668d152f5/full/full/0/default.jpg
+c064	c064-u007	槻	1	2	槻／槐／橇／棁	木旁清楚，右部上下疊筆與兒形仍不足分清，保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/a98798f7-4eb8-4d4c-aa73-366668d152f5/full/full/0/default.jpg
+c064	c064-u011	槻	1	2	槻／槐／橇／棁	木旁清楚，右部上下疊筆與兒形仍不足分清，保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/a98798f7-4eb8-4d4c-aa73-366668d152f5/full/full/0/default.jpg
+c064	c064-u013	槻	1	2	槻／槐／橇／棁	木旁清楚，右部上下疊筆與兒形仍不足分清，保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/a98798f7-4eb8-4d4c-aa73-366668d152f5/full/full/0/default.jpg
+c064	c064-u018	三□	0	2	三八／三九	第二數字右緣裁切，未據頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/a98798f7-4eb8-4d4c-aa73-366668d152f5/full/full/0/default.jpg
+c065	c065-u003	炯	1	2	炯／炳	火旁清楚，右框內筆淡，保留所列候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/b90dbab2-15c5-44b8-ab39-f88ecbf6677e/full/full/0/default.jpg
+c065	c065-u005	□	1	2	槐／槻／橇／橈	此木旁小字右側疊筆與曲腳可見，不能排除候選；單字位置已知。	https://iiif.bodleian.ox.ac.uk/iiif/image/b90dbab2-15c5-44b8-ab39-f88ecbf6677e/full/full/0/default.jpg
+c065	c065-u007	□	1	2	槐／槻／橇／橈	此木旁小字右側疊筆與曲腳可見，不能排除候選；單字位置已知。	https://iiif.bodleian.ox.ac.uk/iiif/image/b90dbab2-15c5-44b8-ab39-f88ecbf6677e/full/full/0/default.jpg
+c065	c065-u015	□	1	2	槐／槻／橇／橈	此木旁小字右側疊筆與曲腳可見，不能排除候選；單字位置已知。	https://iiif.bodleian.ox.ac.uk/iiif/image/b90dbab2-15c5-44b8-ab39-f88ecbf6677e/full/full/0/default.jpg
+c065	c065-u017	□	1	2	槐／槻／橇／橈	此木旁小字右側疊筆與曲腳可見，不能排除候選；單字位置已知。	https://iiif.bodleian.ox.ac.uk/iiif/image/b90dbab2-15c5-44b8-ab39-f88ecbf6677e/full/full/0/default.jpg
+c065	c065-u020	□	0	1	三九／三□	版心僅殘筆，不能補三十九。	https://iiif.bodleian.ox.ac.uk/iiif/image/b90dbab2-15c5-44b8-ab39-f88ecbf6677e/full/full/0/default.jpg
+c066	c066-u003	□	1	2	槐／槻／橇／橈	三處木旁字右部均繁筆，仍未能確定部件，保留單字候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/9c12e161-1f28-4c1a-a326-d74a0261ab24/full/full/0/default.jpg
+c066	c066-u007	□	1	2	槐／槻／橇／橈	三處木旁字右部均繁筆，仍未能確定部件，保留單字候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/9c12e161-1f28-4c1a-a326-d74a0261ab24/full/full/0/default.jpg
+c066	c066-u013	□	1	2	槐／槻／橇／橈	三處木旁字右部均繁筆，仍未能確定部件，保留單字候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/9c12e161-1f28-4c1a-a326-d74a0261ab24/full/full/0/default.jpg
+c066	c066-u021	三□	0	2	三一／三□／四十	僅見橫筆片段，圖邊切去右側；不按頁次補。	https://iiif.bodleian.ox.ac.uk/iiif/image/9c12e161-1f28-4c1a-a326-d74a0261ab24/full/full/0/default.jpg
+c067	c067-u004	□	1	2	槐／櫈／橈／槻	木旁外的堆疊橫斜與下鉤未能確定部件；三處逐一看過，仍保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/becf1a1d-e44e-4cd5-8b6d-84ee6fbab29f/full/full/0/default.jpg
+c067	c067-u006	□	1	2	槐／櫈／橈／槻	木旁外的堆疊橫斜與下鉤未能確定部件；三處逐一看過，仍保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/becf1a1d-e44e-4cd5-8b6d-84ee6fbab29f/full/full/0/default.jpg
+c067	c067-u012	□	1	2	槐／櫈／橈／槻	木旁外的堆疊橫斜與下鉤未能確定部件；三處逐一看過，仍保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/becf1a1d-e44e-4cd5-8b6d-84ee6fbab29f/full/full/0/default.jpg
+c067	c067-u020	三□	0	2	三三／三二／二十二	版心被裁；看得到橫筆但數字界線及殘筆不足確讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/becf1a1d-e44e-4cd5-8b6d-84ee6fbab29f/full/full/0/default.jpg
+c068	c068-u007	橈	2	3	橈／槐／槻／櫈	右部上疊橫及下兀形較支持堯，仍無法排除細筆相近候選，不據前頁用途統一。	https://iiif.bodleian.ox.ac.uk/iiif/image/f709423d-db1d-4557-8f73-0f4df05693a3/full/full/0/default.jpg
+c068	c068-u018	三□	0	2	三三／三二／二十二	右側裁切，字界及末筆不全。	https://iiif.bodleian.ox.ac.uk/iiif/image/f709423d-db1d-4557-8f73-0f4df05693a3/full/full/0/default.jpg
+c069	c069-u003	土	14	15	土／士	兩橫近等長且墨邊粗，略以下橫較長暫留土，不能全排士。	https://iiif.bodleian.ox.ac.uk/iiif/image/c26170cc-e6c9-4864-80f9-946b20572326/full/full/0/default.jpg
+c069	c069-u012	三□	0	2	三五／三四／三二	版心裁切左部，末字筆畫殘缺；不加獨立十。	https://iiif.bodleian.ox.ac.uk/iiif/image/c26170cc-e6c9-4864-80f9-946b20572326/full/full/0/default.jpg
+c070	c070-u014	三□	0	2	三四／三三／三二	版心右邊裁切，橫筆與字界未能完整辨讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/2313ee65-520a-4cad-a2e4-a0d17744e3a2/full/full/0/default.jpg
+c071	c071-u007	槐	1	2	槐／橈	小字右旁印跡黏連，保留形近候選；不是欖的密集臣見結構。	https://iiif.bodleian.ox.ac.uk/iiif/image/be89cc72-adba-4fe2-84fa-9a2cd41e85ac/full/full/0/default.jpg
+c071	c071-u014	輔	0	1	輔／□	版心第一字左部被裝訂邊裁切，右甫形可見。	https://iiif.bodleian.ox.ac.uk/iiif/image/be89cc72-adba-4fe2-84fa-9a2cd41e85ac/full/full/0/default.jpg
+c072	c072-u009	會	0	1	會／曾	頂部人形合蓋較明，內部墨線淡，仍留曾候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/6bd5730f-070b-4b12-9527-615e3da66372/full/full/0/default.jpg
+c072	c072-u010	逵	12	13	逵／達	辶內土及分足形較合逵，中間筆畫淡，保留達候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/6bd5730f-070b-4b12-9527-615e3da66372/full/full/0/default.jpg
+c073	c073-u003	珮	14	15	珮／珊	王旁右部外框與內豎支持珮，細橫印跡不全，留珊候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/dd9eb742-8c97-495c-bb5b-4d49441c5bef/full/full/0/default.jpg
+c073	c073-u018	槎	2	3	槎／桂	木右下見工，上部橫筆與斜撇較合差，仍有黏連留桂候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/dd9eb742-8c97-495c-bb5b-4d49441c5bef/full/full/0/default.jpg
+c074	c074-u018	□	1	2	四	頁碼下字右半被折口裁切，左框及內筆較合四，仍不足完整定字；不依頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/eaac0879-8c8a-4ded-b003-64b02ecfebca/full/full/0/default.jpg
+c075	c075-u009	馨	13	14	馨／磬	下部可見日內橫與上方禾樣分筆，較合香底，但局部墨塊重，保留石底磬候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/5068fa55-d6f9-4c52-a4e8-48a025083ce6/full/full/0/default.jpg
+c075	c075-u013	信	4	5	信／言	版心左側裁切，言部可見，左亻殘跡不足完整確認。	https://iiif.bodleian.ox.ac.uk/iiif/image/5068fa55-d6f9-4c52-a4e8-48a025083ce6/full/full/0/default.jpg
+c076	c076-u004	顥	1	2	顥／顯	頁旁左日下見京樣口及垂筆，較合景，但墨線密仍留顯候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c076	c076-u015	□	0	1	輔	首字只剩車旁與右上殘筆，右側裁切，按可見字位留單字未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c076	c076-u015	□	2	3	堂	第三字僅留上部側筆和土底左段，右側裁切，按可見字位留單字未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c076	c076-u015	□	3	4	徵	第四字只見彳旁，右側裁切，按可見字位留單字未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c076	c076-u015	□	4	5	信	第五字只見亻旁，不能確認右言，右側裁切，按可見字位留單字未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c076	c076-u015	□	5	6	錄	第六字只見金旁左部，右側裁切，按可見字位留單字未知。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c076	c076-u016	□	1	2	五	下字只剩左側短橫，右半裁出畫幅；五僅候選，不能以頁序定字。	https://iiif.bodleian.ox.ac.uk/iiif/image/a6dbf539-4268-4c4c-b479-fcdbc435a762/full/full/0/default.jpg
+c077	c077-u006	戎	0	1	戎／戊	姓字斜筆與內部交叉筆稍混，暫讀戎。	https://iiif.bodleian.ox.ac.uk/iiif/image/c877ba3d-2b11-49a7-8294-401185009539/full/full/0/default.jpg
+c077	c077-u007	宋	0	1	宋／朱	姓字頂部有短點，宀輪廓不完全明確。	https://iiif.bodleian.ox.ac.uk/iiif/image/c877ba3d-2b11-49a7-8294-401185009539/full/full/0/default.jpg
+c077	c077-u013	徵	3	4	徵／放	版心字左部被裁邊，保留暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/c877ba3d-2b11-49a7-8294-401185009539/full/full/0/default.jpg
+c077	c077-u014	□	0	1		版心頁碼左側裁切，所餘橫筆與末點不足以確讀；不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/c877ba3d-2b11-49a7-8294-401185009539/full/full/0/default.jpg
+c078	c078-u014	□	1	2	六／二	版心頁碼右部裁切，第二字所餘橫筆及斜筆不足以定讀；不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/27993ee6-7dea-4e40-86ec-f1369885472d/full/full/0/default.jpg
+c079	c079-u002	鈕	12	13	鈕／鈺	金旁右件幾筆併合，暫依丑形讀鈕。	https://iiif.bodleian.ox.ac.uk/iiif/image/aebf6bc7-5b08-4b9b-b754-28828592bd17/full/full/0/default.jpg
+c079	c079-u008	醴	12	13	醴／體	左旁窄小墨痕，暫讀酉旁。	https://iiif.bodleian.ox.ac.uk/iiif/image/aebf6bc7-5b08-4b9b-b754-28828592bd17/full/full/0/default.jpg
+c079	c079-u013	輔元堂徵信錄	0	6		版心題左半裁切；各字依可見右半暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/aebf6bc7-5b08-4b9b-b754-28828592bd17/full/full/0/default.jpg
+c079	c079-u014	□	1	2	七	版心頁碼左部裁切，第二字只餘少數橫與轉筆，不依頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/aebf6bc7-5b08-4b9b-b754-28828592bd17/full/full/0/default.jpg
+c080	c080-u003	賈	11	12	賈／費	上件方框橫筆較像西，細筆仍有併墨，保留費候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/29db3bf0-424a-4278-a294-33ad2885e47b/full/full/0/default.jpg
+c080	c080-u006	杏	12	13	杏／古／吉／香	名中間字墨色淡，暫依木口形讀杏。	https://iiif.bodleian.ox.ac.uk/iiif/image/29db3bf0-424a-4278-a294-33ad2885e47b/full/full/0/default.jpg
+c080	c080-u010	祁	0	1	祁／邢	姓字左件下筆及右阝形略異於常見字樣，暫讀祁。	https://iiif.bodleian.ox.ac.uk/iiif/image/29db3bf0-424a-4278-a294-33ad2885e47b/full/full/0/default.jpg
+c080	c080-u011	輔元堂徵信錄	0	6		右版心題各字右邊裁切，依仍可見部分暫錄。	https://iiif.bodleian.ox.ac.uk/iiif/image/29db3bf0-424a-4278-a294-33ad2885e47b/full/full/0/default.jpg
+c080	c080-u012	□	1	2		版心頁碼第二字右側被裁，餘筆不足定讀，不以頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/29db3bf0-424a-4278-a294-33ad2885e47b/full/full/0/default.jpg
+c081	c081-u013	輔元堂徵信錄	0	6		左版心題左側裁切，各字依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/84c3756c-151e-4274-bdac-0f846586dcd2/full/full/0/default.jpg
+c081	c081-u014	三九	0	2		版心頁碼左部裁切；三橫與末字勾勢可見，保留暫讀三九。	https://iiif.bodleian.ox.ac.uk/iiif/image/84c3756c-151e-4274-bdac-0f846586dcd2/full/full/0/default.jpg
+c082	c082-u001	裏	12	13	裏／裹／衷／彙	中央田/果狀與上下衣/彐輪廓磨損，裏暫讀，保留彙等候選，不按姓名改定。	https://iiif.bodleian.ox.ac.uk/iiif/image/a3528b69-4568-42b6-a41c-259686714eea/full/full/0/default.jpg
+c082	c082-u011	輔元堂徵信錄	0	6		右版心右半裁切，各字由殘存左半暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/a3528b69-4568-42b6-a41c-259686714eea/full/full/0/default.jpg
+c082	c082-u012	□	1	2		版心頁碼第二字大部分裁切，只餘斜筆，無法定讀，不以頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/a3528b69-4568-42b6-a41c-259686714eea/full/full/0/default.jpg
+c083	c083-u003	敘	1	2	欽／敩／敍	左上人下橫豎似余、右為散開交筆，暫讀敘；細筆磨損保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/46ce34b6-5c35-49fc-80ac-332f9521a2d6/full/full/0/default.jpg
+c083	c083-u010	鳴	1	2	煦／照	左方口日框與右上折筆磨損，暫讀鳴但不能排除煦。	https://iiif.bodleian.ox.ac.uk/iiif/image/46ce34b6-5c35-49fc-80ac-332f9521a2d6/full/full/0/default.jpg
+c083	c083-u015	輔元堂徵信錄	0	6		版心題左側裁切，依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/46ce34b6-5c35-49fc-80ac-332f9521a2d6/full/full/0/default.jpg
+c083	c083-u016	□	0	1		版心頁碼裁切，只餘少量橫斜筆；不可確定原字數，extent unknown，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/46ce34b6-5c35-49fc-80ac-332f9521a2d6/full/full/0/default.jpg
+c084	c084-u016	菴	10	11	菴／巷	名字末字淡印，上方草頭與下方結構未完全明晰，暫讀菴。	https://iiif.bodleian.ox.ac.uk/iiif/image/996bddce-315f-4c3e-9547-8b4fd1bdd8fe/full/full/0/default.jpg
+c084	c084-u017	輔元堂徵信錄	0	6		版心題右半裁切，依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/996bddce-315f-4c3e-9547-8b4fd1bdd8fe/full/full/0/default.jpg
+c084	c084-u018	□	1	2		版心頁碼第二字右部裁切，不以頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/996bddce-315f-4c3e-9547-8b4fd1bdd8fe/full/full/0/default.jpg
+c085	c085-u002	蕙	9	10	惠／憩	頂部細橫與豎筆磨損，下心形可見，暫讀蕙；保留惠、憩候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/632dcb85-51ba-4edd-8c1c-81394b06e8f4/full/full/0/default.jpg
+c085	c085-u006	棣	12	13	棣／桂／樾	名中字木旁右件細筆併合，暫讀棣，保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/632dcb85-51ba-4edd-8c1c-81394b06e8f4/full/full/0/default.jpg
+c085	c085-u011	輔元堂徵信錄	0	6		版心題左半裁切，依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/632dcb85-51ba-4edd-8c1c-81394b06e8f4/full/full/0/default.jpg
+c085	c085-u012	□	1	2		版心頁碼下字左部裁切，餘筆不足定讀，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/632dcb85-51ba-4edd-8c1c-81394b06e8f4/full/full/0/default.jpg
+c086	c086-u004	□	12	13	糓／穀／綬／緩／凝	左部呈米或糹狀、右為折橫與交筆；未見完整冫疑，仍不能定字，保留單字未解。	https://iiif.bodleian.ox.ac.uk/iiif/image/706d620a-8a48-43e1-9917-279e44c89438/full/full/0/default.jpg
+c086	c086-u007	黼	1	2	黼／輔	小註左件細筆密集，暫讀黹旁黼。	https://iiif.bodleian.ox.ac.uk/iiif/image/706d620a-8a48-43e1-9917-279e44c89438/full/full/0/default.jpg
+c086	c086-u015	輔元堂徵信錄	0	6		右版心裁邊，依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/706d620a-8a48-43e1-9917-279e44c89438/full/full/0/default.jpg
+c086	c086-u016	□	1	2		版心頁碼下字右部裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/706d620a-8a48-43e1-9917-279e44c89438/full/full/0/default.jpg
+c087	c087-u011	輔元堂徵信錄	0	6		左版心裁邊，依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/7d80c6dd-b87e-4a3b-9e20-8a3953266278/full/full/0/default.jpg
+c087	c087-u012	四三	0	2		版心頁碼左邊裁切，依所見框與橫筆暫錄，不據頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/7d80c6dd-b87e-4a3b-9e20-8a3953266278/full/full/0/default.jpg
+c088	c088-u003	櫈	0	1	櫈／橈	木旁右件上部交筆與下部方形，暫讀櫈。	https://iiif.bodleian.ox.ac.uk/iiif/image/0f5399fd-6813-4034-9a50-e14fd929c73e/full/full/0/default.jpg
+c088	c088-u012	丁	0	1	丁／于	姚姓附註首字僅橫與下鉤，照字形暫錄丁，不以日期語意刪字。	https://iiif.bodleian.ox.ac.uk/iiif/image/0f5399fd-6813-4034-9a50-e14fd929c73e/full/full/0/default.jpg
+c088	c088-u015	友田	3	5	友田／友昌	喪主稱字中方框內橫畫較淡，暫讀田。	https://iiif.bodleian.ox.ac.uk/iiif/image/0f5399fd-6813-4034-9a50-e14fd929c73e/full/full/0/default.jpg
+c088	c088-u021	輔元堂徵信錄	0	6		右版心裁邊，依可見半字暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/0f5399fd-6813-4034-9a50-e14fd929c73e/full/full/0/default.jpg
+c088	c088-u022	□	1	2		版心頁碼下字裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/0f5399fd-6813-4034-9a50-e14fd929c73e/full/full/0/default.jpg
+c089	c089-u003	宅	1	2	老／芒	小字上部短橫撇與下鉤磨損，宅暫讀，不能排除老、芒。	https://iiif.bodleian.ox.ac.uk/iiif/image/445820d6-6933-43e7-9fb2-e6f086695bea/full/full/0/default.jpg
+c089	c089-u007	輔元堂徵信錄	0	6		左版心裁邊，依可見半字暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/445820d6-6933-43e7-9fb2-e6f086695bea/full/full/0/default.jpg
+c089	c089-u008	□	1	2		版心頁碼第二字大部分裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/445820d6-6933-43e7-9fb2-e6f086695bea/full/full/0/default.jpg
+c090	c090-u001	□元堂□信□	0	6	輔元堂徵信錄	裁邊僅車旁、彳類左部、金旁等，不能獨立恢復各字右半；候選不補入忠實正文。	https://iiif.bodleian.ox.ac.uk/iiif/image/7386aba7-a6bb-4ec5-89bd-56d8f22adca8/full/full/0/default.jpg
+c090	c090-u002	四三	0	2	四三	暫依四外框內斜筆及下三橫錄，右部仍裁缺，未以頁序定讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/7386aba7-a6bb-4ec5-89bd-56d8f22adca8/full/full/0/default.jpg
+c091	c091-u006	、	10	11		兩後右側有短斜墨筆，暫存原句讀，仍可能為墨屑。	https://iiif.bodleian.ox.ac.uk/iiif/image/8af76186-a02e-4a1e-85c0-b6d4595a12df/full/full/0/default.jpg
+c091	c091-u008	公捐	2	4	尖措／公措／尖捐	中間字上分筆下似厶，末字扌右上下框，暫讀公捐；細筆磨損保留候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/8af76186-a02e-4a1e-85c0-b6d4595a12df/full/full/0/default.jpg
+c091	c091-u009	分	0	1	分／劈	可見八刀形，暫錄分，較繁上部是否因淡印脫落不能排除。	https://iiif.bodleian.ox.ac.uk/iiif/image/8af76186-a02e-4a1e-85c0-b6d4595a12df/full/full/0/default.jpg
+c091	c091-u016	輔元堂徵信錄	0	6		左版心裁邊，依可見半字暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/8af76186-a02e-4a1e-85c0-b6d4595a12df/full/full/0/default.jpg
+c091	c091-u017	□	1	2		版心頁碼下字左側裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/8af76186-a02e-4a1e-85c0-b6d4595a12df/full/full/0/default.jpg
+c092	c092-u004	各	2	3	各／名	隱後一字上件夂／夕刻筆接連，暫依交筆讀各。	https://iiif.bodleian.ox.ac.uk/iiif/image/ecd74d9c-95ef-4665-bfb0-57b441a3ae6c/full/full/0/default.jpg
+c092	c092-u012	二百	1	3	一百	百前上橫為短碎墨痕，下橫較長；不能完全排除前者為殘墨，暫讀二百但留一百。	https://iiif.bodleian.ox.ac.uk/iiif/image/ecd74d9c-95ef-4665-bfb0-57b441a3ae6c/full/full/0/default.jpg
+c092	c092-u014	輔元堂徵信錄	0	6		右版心裁邊，依可見半字暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/ecd74d9c-95ef-4665-bfb0-57b441a3ae6c/full/full/0/default.jpg
+c092	c092-u015	□	1	2		版心頁碼第二字右部裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/ecd74d9c-95ef-4665-bfb0-57b441a3ae6c/full/full/0/default.jpg
+c093	c093-u004	善姓	1	3	善姓／善性	第二字女旁可見，依字形暫讀姓，不依文意改寫。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c093	c093-u004	橈	11	12	櫈／橙	右部上方橫土樣疊筆、下有兀樣分筆，暫讀橈；細部淡印留櫈、橙候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c093	c093-u010	橈	2	3	櫈／橙	木旁右件上層交橫、底分筆，暫讀橈但細筆不清。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c093	c093-u019	七十五	2	5	七十五／六十五／廿五	小註百後數字刻筆緊密，見斜橫及豎交筆，暫錄七十五；未用用去或實存數推算。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c093	c093-u021	漆	2	3	潑	左旁見氵、右件上木下散水筆，暫讀漆，磨損處保留潑候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c093	c093-u022	輔元堂徵信錄	0	6		左版心裁邊，依可見半字暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c093	c093-u023	□	1	2		版心頁碼下字裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg
+c094	c094-u001	輔元堂徵信錄	0	6		右版心右側裁切，依殘存輪廓暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/94c9c09b-cfda-4538-9c99-cc56a9bd862f/full/full/0/default.jpg
+c094	c094-u002	□	1	2		版心頁碼下字右側裁切，不按頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/94c9c09b-cfda-4538-9c99-cc56a9bd862f/full/full/0/default.jpg
+c095	c095-u001	棧	7	8	棧／機	標題木旁右件交叉斜筆略密，暫依戔形讀棧。	https://iiif.bodleian.ox.ac.uk/iiif/image/0c66d4bb-e986-468c-a14f-8746b082e71d/full/full/0/default.jpg
+c095	c095-u005	鋸	0	1	鋸／錛	工項首字金旁右部上方細筆併合，暫讀鋸。	https://iiif.bodleian.ox.ac.uk/iiif/image/0c66d4bb-e986-468c-a14f-8746b082e71d/full/full/0/default.jpg
+c095	c095-u020	輔元堂徵信錄	0	6		左版心裁邊且上方穿過紙摺，依可見半字暫讀。	https://iiif.bodleian.ox.ac.uk/iiif/image/0c66d4bb-e986-468c-a14f-8746b082e71d/full/full/0/default.jpg
+c095	c095-u021	四五	0	2		版心頁碼左部裁切，依可見框及交橫筆暫錄，不據頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/0c66d4bb-e986-468c-a14f-8746b082e71d/full/full/0/default.jpg
+c096	c096-u001	貳	10	11	貳／貞	五百後字上部與右上斜筆不清，暫讀貳，未由帳額推算。	https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg
+c096	c096-u010	橙	1	2	橙／櫈	木旁右部似登，照可見字形暫錄橙。	https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg
+c096	c096-u022	四三	0	2	四三／四十三	版心頁碼僅左部露出，實見上下四、三；是否另有右側十未能確認，未按頁序補足。	https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg
+c097	c097-u004	鑽	0	1	鑽／鑚	右上雙構件細畫貼近邊框，先與夫的細分未完全可辨；金與貝清楚，保留異體候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/b5fa86e4-61b8-4e3d-91ec-0a0d25e3c877/full/full/0/default.jpg
+c097	c097-u012	四七	0	2	四七／七	左裁邊前字不全，四七暫讀；不按掃描頁數補。	https://iiif.bodleian.ox.ac.uk/iiif/image/b5fa86e4-61b8-4e3d-91ec-0a0d25e3c877/full/full/0/default.jpg
+c098	c098-u002	扒	2	3	扒／挽／扛／折	扌清楚，右件上端細筆斷墨，不能完整確認。	https://iiif.bodleian.ox.ac.uk/iiif/image/a434e523-f0d6-4d1d-8730-af8d64437c5b/full/full/0/default.jpg
+c098	c098-u006	鏞	4	5	鏞／鑄／鏄	金旁右件上中密橫下框，較近庸但細筆難排其他。	https://iiif.bodleian.ox.ac.uk/iiif/image/a434e523-f0d6-4d1d-8730-af8d64437c5b/full/full/0/default.jpg
+c098	c098-u006	賠	7	8	賠／貽／胎	左件見貝下八腳，胎的月旁較不符；右上立或厶短筆不明，暫存賠而保留貽。	https://iiif.bodleian.ox.ac.uk/iiif/image/a434e523-f0d6-4d1d-8730-af8d64437c5b/full/full/0/default.jpg
+c098	c098-u008	□	1	2	四／六	版心末字多在裁邊外，只有橫斜，不以頁序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/a434e523-f0d6-4d1d-8730-af8d64437c5b/full/full/0/default.jpg
+c099	c099-u010	爐	6	7	爐／燈／檀	左火旁較明，右下像皿支持爐，但上部虍田與癶豆的細筆淺，保留燈及原獨立檀供再核。	https://iiif.bodleian.ox.ac.uk/iiif/image/a62421a1-1724-46ad-a651-9d0a2bbcbc14/full/full/0/default.jpg
+c099	c099-u011	几	7	8	几／凡	几內未見明確點，不按語意加點。	https://iiif.bodleian.ox.ac.uk/iiif/image/a62421a1-1724-46ad-a651-9d0a2bbcbc14/full/full/0/default.jpg
+c100	c100-u008	甲			甲／申	小甲中字豎上端略露，暫甲。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c100	c100-u008	□	8	9	當／賞	兩後單一字上部密接、下框內筆不全，不能定當或賞；僅此一字未決，未遮整註。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c100	c100-u008	囘	9	10	囘／四	框內似封閉小口，暫依囘形錄，未按金額改四。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c100	c100-u008	口	13	14	口／日	書下另有小框字，內橫是否字筆不清。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c100	c100-u010	棚	1	2	棚／柵	木右並列框與細橫相連，朋或冊仍有疑，暫存棚。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c100	c100-u012	滾墩	1	3	滾墩／滾墱	右件細畫淺，保持候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c100	c100-u017	□	1	2	七／十七	頁碼四後裁失，未依圖序補。	https://iiif.bodleian.ox.ac.uk/iiif/image/40763600-5a01-46ab-9f1e-97d935cba9e4/full/full/0/default.jpg
+c101	c101-u004	四十八	0	3	四十八／四八	左版心字左側裁邊，只露四字右部、短橫豎及八字右捺，暫錄四十八，保留無十候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/026a573c-952c-4fa3-8566-1fb0c6a0541b/full/full/0/default.jpg
+c102	c102-u002	□	1	2	十八／八	右版心頁碼裁邊，四字下只見橫及斜筆，未據前後頁補字。	https://iiif.bodleian.ox.ac.uk/iiif/image/5e0de9e6-885d-4b85-9ec3-cf72c22be169/full/full/0/default.jpg
+c103	c103-u007	二百二十五	10	15	二百二十五／三百二十五／三百三十五	首額及百後數字上橫淺，錢／百末筆與下字上橫相近，二三不能完全定，保留所列及分段候選。	https://iiif.bodleian.ox.ac.uk/iiif/image/79b5d9e4-4f60-4625-b9ee-b23b229bba4d/full/full/0/default.jpg
+c103	c103-u014	四十九	0	3	四十九／四九	十僅殘橫近裁邊，四九右側可見；未由頁序定十。	https://iiif.bodleian.ox.ac.uk/iiif/image/79b5d9e4-4f60-4625-b9ee-b23b229bba4d/full/full/0/default.jpg
+c106	c106-u001	□元堂□信□	0	6	輔元堂徵信錄	書名首、第四、末字右部裁去；左車、彳類、金旁不足獨立補全。	https://iiif.bodleian.ox.ac.uk/iiif/image/9cc1ae6c-3e4f-476f-99e9-8ec737e9a12d/full/full/0/default.jpg
+c106	c106-u002	五一	0	2	五一／□二／五	暫將上方有短豎連接橫畫作五、下獨立橫作一；右裁邊使字界不全，保留原候選而不據頁序。	https://iiif.bodleian.ox.ac.uk/iiif/image/9cc1ae6c-3e4f-476f-99e9-8ec737e9a12d/full/full/0/default.jpg
+c106	c106-u006	典	6	7	典／其	上部似外框與內豎、下八支持典，右側缺墨，仍保留其；興所需兩側臼形未見。	https://iiif.bodleian.ox.ac.uk/iiif/image/9cc1ae6c-3e4f-476f-99e9-8ec737e9a12d/full/full/0/default.jpg
