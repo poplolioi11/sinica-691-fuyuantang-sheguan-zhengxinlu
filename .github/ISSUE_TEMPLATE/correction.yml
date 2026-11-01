@@ -1,0 +1,32 @@
+name: 文字／來源訂正
+description: 提供版本、單位與原圖依據
+title: "[訂正] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 使用版本
+      placeholder: v0.1.0
+    validations:
+      required: true
+  - type: input
+    id: locus
+    attributes:
+      label: 影像頁與單位 ID
+      placeholder: c076 / c076-u015
+    validations:
+      required: true
+  - type: textarea
+    id: reading
+    attributes:
+      label: 原文字與建議讀法
+      description: 不確定時可列候選，不須先定字。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 原圖連結、字位與理由
+      description: 請提供館方來源連結，不上傳掃描或私人資料。
+    validations:
+      required: true
