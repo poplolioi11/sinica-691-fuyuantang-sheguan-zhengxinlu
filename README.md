@@ -1,5 +1,11 @@
 # 上洋輔元堂賒棺局徵信錄 · Sinica 691
 
+## 摘要 / Abstract
+
+本資料以牛津大學Bodleian Libraries藏Sinica 691《上洋輔元堂賒棺局徵信錄》為底本，提供AI輔助初錄、獨立影像讀字及回圖覆核後的定位文字。固定來源含108幅影像，包括104個有編號物理面與4幅封面／內封影像，整理JSON、TXT、TEI及逐頁閱讀文本，保留263筆疑讀與4處未知字數缺區，供慈善史、社會史與數位人文研究檢索、原圖對照及後續校訂。封面道光二十九年（1849）與保存書目1837年不同，確切印行年及葉數未核實；尚未完成人類雙校。
+
+This dataset provides an AI-assisted initial transcription, independent image readings and source-adjudicated located text of 上洋輔元堂賒棺局徵信錄, Bodleian Libraries, University of Oxford, Sinica 691. The fixed source contains 108 images: 104 numbered physical surfaces and four cover/inside-cover images. JSON, TXT, TEI and page-by-page reading text retain 263 uncertainty records and four source gaps of unknown character extent, supporting discovery, image comparison and later correction in charity history, social history and digital humanities. The cover's 1849 date differs from a saved catalogue date of 1837; the exact printing year and leaf count remain unverified. Human double collation has not been completed.
+
 **v0.1.0｜AI輔助初錄與全量AI原圖覆核｜尚未真人雙校或專家審查**
 
 整理者：曲宸宇（Chu, Chen-Yu；GitHub：poplolioi11），[ORCID](https://orcid.org/0009-0003-9738-6914)。整理者不是原書作者，館方沒有背書本轉錄。
