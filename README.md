@@ -1,10 +1,17 @@
-# 上洋輔元堂賒棺局徵信錄 · Sinica 691
+# 上洋輔元堂賒棺局徵信錄（刊年待核；Bodleian Sinica 691）/ Shangyang Fuyuantang Sheguan Bureau Zhengxinlu: Transcription dataset
 
 ## 摘要 / Abstract
 
-本資料以牛津大學Bodleian Libraries藏Sinica 691《上洋輔元堂賒棺局徵信錄》為底本，提供AI輔助初錄、獨立影像讀字及回圖覆核後的定位文字。固定來源含108幅影像，包括104個有編號物理面與4幅封面／內封影像，整理JSON、TXT、TEI及逐頁閱讀文本，保留263筆疑讀與4處未知字數缺區，供慈善史、社會史與數位人文研究檢索、原圖對照及後續校訂。封面道光二十九年（1849）與保存書目1837年不同，確切印行年及葉數未核實；尚未完成人類雙校。
+《上洋輔元堂賒棺局徵信錄》是上海輔元堂賒棺局的慈善徵信文獻，載賒棺章程、捐輸、收支與棺木經辦紀錄，可供清代上海慈善、殮葬救濟與慈善帳簿研究。本資料依Bodleian Libraries藏Sinica 691，提供108幅影像的AI輔助轉錄，包括104個編號書面與4幅封面／內封，以JSON、TXT、TEI及逐頁閱讀文字保留來源定位、疑讀和未知字數缺區。封面題簽1849與書目1837不合，且同一館目XML另記1849，確切刊印年和葉數仍待核；本版未完成人類雙校。
 
-This dataset provides an AI-assisted initial transcription, independent image readings and source-adjudicated located text of 上洋輔元堂賒棺局徵信錄, Bodleian Libraries, University of Oxford, Sinica 691. The fixed source contains 108 images: 104 numbered physical surfaces and four cover/inside-cover images. JSON, TXT, TEI and page-by-page reading text retain 263 uncertainty records and four source gaps of unknown character extent, supporting discovery, image comparison and later correction in charity history, social history and digital humanities. The cover's 1849 date differs from a saved catalogue date of 1837; the exact printing year and leaf count remain unverified. Human double collation has not been completed.
+Shangyang Fuyuantang Sheguan Bureau Zhengxinlu is an accountability register of a Shanghai coffin-charity bureau, recording rules, donations, receipts, expenditure and coffin-related business. It supports research on Qing Shanghai charity, burial relief and charitable accounts. Using Bodleian Libraries Sinica 691, this dataset provides an AI-assisted transcription of 108 images, comprising 104 numbered surfaces and four cover or inside-cover images, in JSON, TXT, TEI and page-by-page reading text with source locators, uncertain readings and unknown-length gaps. The cover label’s 1849 conflicts with the catalogue’s 1837 while the same catalogue XML also records 1849; the printing year and leaf count remain unresolved, and human double collation is incomplete.
+
+原件與書目入口 / Source witness and catalogue:
+
+- [館藏書目 / Catalogue](https://east-asian.bodleian.ox.ac.uk/catalog/volume_5978)
+- [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/6171d7e6-0aa8-4deb-a02b-dc7366a26e09/)
+- [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/6171d7e6-0aa8-4deb-a02b-dc7366a26e09.json)
+- [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20691.xml)
 
 **v0.1.0｜AI輔助初錄與全量AI原圖覆核｜尚未真人雙校或專家審查**
 
