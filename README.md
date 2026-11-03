@@ -1,4 +1,4 @@
-# 上洋輔元堂賒棺局徵信錄（刊年待核；Bodleian Sinica 691）/ Shangyang Fuyuantang Sheguan Bureau Zhengxinlu: Transcription dataset
+# 上洋輔元堂賒棺局徵信錄(刊年待核;Bodleian Sinica 691) / Yang fu yuan tang she guan ju zheng xin lu [Accountability register of the Fuyuantang coffin-charity bureau]: Transcription dataset
 
 ## 摘要 / Abstract
 
@@ -12,6 +12,16 @@ Shangyang Fuyuantang Sheguan Bureau Zhengxinlu is an accountability register of 
 - [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/6171d7e6-0aa8-4deb-a02b-dc7366a26e09/)
 - [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/6171d7e6-0aa8-4deb-a02b-dc7366a26e09.json)
 - [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20691.xml)
+
+### 題名與語言說明 / Title and language notes
+
+方括號英譯為編者意譯，非館目正式題名。Bracketed English titles are editorial discovery glosses, not official catalogue English titles.
+
+館目較短中文題名為「洋輔元堂賒棺局徵信錄」，原轉寫為「yang fu yuan tang she guan ju zheng xin lu」，漏「上」；資料集保留完整中文「上洋輔元堂賒棺局徵信錄」，展示館目轉寫僅首字母大寫。先前完整 Shangyang Fuyuantang Sheguan Bureau Zhengxinlu 為編者檢索轉寫，另保留為替代題名。
+
+題名來源 / Title source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20691.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20691.xml)
+
+語言層次 / Language layers: 原文保留既有 lzh；本輪未作全書重新語體判定。 eng 標記現行英文摘要，不表示固定封存附件全部為英文。
 
 **v0.1.0｜AI輔助初錄與全量AI原圖覆核｜尚未真人雙校或專家審查**
 
