@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite the exact dataset version and source image; AI-assisted transcription, not human double collation."
 type: dataset
-title: "上洋輔元堂賒棺局徵信錄（Bodleian Sinica 691）：AI輔助初錄與來源覆核資料集"
+title: "上洋輔元堂賒棺局徵信錄(刊年待核;Bodleian Sinica 691) / Shang yang fu yuan tang she guan ju zheng xin lu [Accountability register of the Fuyuantang coffin-charity bureau]: Transcription dataset"
 version: "0.1.0"
 date-released: "2026-11-01"
 authors:
