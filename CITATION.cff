@@ -1,32 +1,45 @@
 cff-version: 1.2.0
-message: "Please cite the exact dataset version and source image; AI-assisted transcription, not human double collation."
+message: Please cite the exact dataset version and source image; AI-assisted transcription,
+  not human double collation.
 type: dataset
-title: "上洋輔元堂賒棺局徵信錄(刊年待核;Bodleian Sinica 691) / Shang yang fu yuan tang she guan ju zheng xin lu [Accountability register of the Fuyuantang coffin-charity bureau]: Transcription dataset"
-version: "0.1.0"
-date-released: "2026-11-01"
+title: '上洋輔元堂賒棺局徵信錄(刊年待核;Bodleian Sinica 691) / Shang yang fu yuan tang she guan ju
+  zheng xin lu [Accountability register of the Fuyuantang coffin-charity bureau]:
+  Transcription dataset'
+version: 0.1.1
+date-released: '2026-11-12'
 authors:
-  - family-names: Chu
-    given-names: Chen-Yu
-    orcid: "https://orcid.org/0009-0003-9738-6914"
-    website: "https://github.com/poplolioi11"
-url: "https://github.com/poplolioi11/sinica-691-fuyuantang-sheguan-zhengxinlu"
-repository-code: "https://github.com/poplolioi11/sinica-691-fuyuantang-sheguan-zhengxinlu"
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+  website: https://github.com/poplolioi11
+url: https://github.com/poplolioi11/sinica-691-fuyuantang-sheguan-zhengxinlu/releases/tag/v0.1.1
+repository-code: https://github.com/poplolioi11/sinica-691-fuyuantang-sheguan-zhengxinlu
 license: CC-BY-4.0
-abstract: "AI-assisted historical Chinese transcription with 263 uncertainty records and four unresolved regions. No human double collation or expert certification. CC BY 4.0 applies only to original editorial material; historical text carries no new restriction, and source scans are excluded. See LICENSE.md."
+abstract: Shangyang Fuyuantang Sheguan Bureau Zhengxinlu is an accountability register
+  of a Shanghai coffin-charity bureau, recording rules, donations, receipts, expenditure
+  and coffin-related business. It supports research on Qing Shanghai charity, burial
+  relief and charitable accounts. Using Bodleian Libraries Sinica 691, this dataset
+  provides an AI-assisted transcription of 108 images, comprising 104 numbered surfaces
+  and four cover or inside-cover images, in JSON, TXT, TEI and page-by-page reading
+  text with source locators, uncertain readings and unknown-length gaps. The cover
+  label’s 1849 conflicts with the catalogue’s 1837 while the same catalogue XML also
+  records 1849; the printing year and leaf count remain unresolved, and human double
+  collation is incomplete. Version 0.1.1 applies only the specified non-blind targeted
+  source corrections; it is not a newly completed independent full-book second collation.
 keywords:
-  - "上洋輔元堂賒棺局徵信錄"
-  - "Sinica 691"
-  - "清代慈善"
-  - "棺木賑濟"
-  - "慈善帳簿"
-  - "徵信錄"
-  - "Qing dynasty"
-  - "coffin charity"
-  - "charitable account books"
-  - "Chinese social history"
-  - "economic history"
-  - "digital humanities"
-  - "AI-assisted transcription"
-  - "TEI XML"
-  - "Chinese historical texts"
-doi: "10.5281/zenodo.23860836"
+- 上洋輔元堂賒棺局徵信錄
+- Sinica 691
+- 清代慈善
+- 棺木賑濟
+- 慈善帳簿
+- 徵信錄
+- Qing dynasty
+- coffin charity
+- charitable account books
+- Chinese social history
+- economic history
+- digital humanities
+- AI-assisted transcription
+- TEI XML
+- Chinese historical texts
+doi: 10.5281/zenodo.24156691

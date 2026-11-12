@@ -1,0 +1,462 @@
+{
+  "schema": "targeted-public-corrections/1",
+  "version": "0.1.1",
+  "base_version": "0.1.0",
+  "base_doi": "10.5281/zenodo.23860836",
+  "review_date": "2026-11-12",
+  "proposal_groups": 16,
+  "occurrences": 28,
+  "changed_codepoints": 16,
+  "changes": [
+    {
+      "case_id": "reader-note-b2-01--c103-u005-11",
+      "unit_id": "c103-u005",
+      "page_id": "c103",
+      "range": [
+        11,
+        12
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "六",
+      "after": "八",
+      "decision": "adopted",
+      "reason": "原像素局部的一千後兩字為八百，三十後字為八；與舊讀六的點橫結構不同。帳目計算不作採字依據。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/79b5d9e4-4f60-4625-b9ee-b23b229bba4d/full/full/0/default.jpg",
+      "source_sha256": "4062c504bc6b35c7c0bcab125564e5cc68dc098502c6deb1555008ca678841e3"
+    },
+    {
+      "case_id": "reader-note-b2-01--c103-u005-15",
+      "unit_id": "c103-u005",
+      "page_id": "c103",
+      "range": [
+        15,
+        16
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "六",
+      "after": "八",
+      "decision": "adopted",
+      "reason": "原像素局部的一千後兩字為八百，三十後字為八；與舊讀六的點橫結構不同。帳目計算不作採字依據。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/79b5d9e4-4f60-4625-b9ee-b23b229bba4d/full/full/0/default.jpg",
+      "source_sha256": "4062c504bc6b35c7c0bcab125564e5cc68dc098502c6deb1555008ca678841e3"
+    },
+    {
+      "case_id": "reader-note-b2-02--c062-u018-2",
+      "unit_id": "c062-u018",
+      "page_id": "c062",
+      "range": [
+        2,
+        3
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "二",
+      "after": "一",
+      "decision": "adopted",
+      "reason": "小字副號後數字為一百七十五；與本頁主字/其他算式分開。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/111f0dd3-8281-4af0-b7dc-5df14b5eb853/full/full/0/default.jpg",
+      "source_sha256": "f42a9f8a24d1e8740789282e413d5d9753377e88a38545e0323ef540f515fd81"
+    },
+    {
+      "case_id": "reader-note-b2-03--c096-u009-0",
+      "unit_id": "c096-u009",
+      "page_id": "c096",
+      "range": [
+        0,
+        1
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "二",
+      "after": "一",
+      "decision": "adopted",
+      "reason": "指油糊工左行數量首字原印一；下行原印六十具。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg",
+      "source_sha256": "2d89a27cfefca1b57de5f68c3a7b99662ec961b362042fc9cf2e392800d727df"
+    },
+    {
+      "case_id": "reader-note-b2-05--c092-u012-1",
+      "unit_id": "c092-u012",
+      "page_id": "c092",
+      "range": [
+        1,
+        2
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "二",
+      "after": "一",
+      "decision": "adopted",
+      "reason": "副號小行首數字為一，接百四十二；本段定位與具數相連。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ecd74d9c-95ef-4665-bfb0-57b441a3ae6c/full/full/0/default.jpg",
+      "source_sha256": "132dee9266d0eb7f157ec8008bd508e7bbb1c8a2d7e8e468b2d6d90dd3bd0b91"
+    },
+    {
+      "case_id": "reader-note-b2-06--c096-u001-10",
+      "unit_id": "c096-u001",
+      "page_id": "c096",
+      "range": [
+        10,
+        11
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "貳",
+      "after": "六",
+      "decision": "adopted",
+      "reason": "百下、十上原字有頂點、橫畫及下部左右兩筆，為六；不存在貳的弋與貝結構。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg",
+      "source_sha256": "2d89a27cfefca1b57de5f68c3a7b99662ec961b362042fc9cf2e392800d727df"
+    },
+    {
+      "case_id": "reader-note-b2-08--c011-u007-12",
+      "unit_id": "c011-u007",
+      "page_id": "c011",
+      "range": [
+        12,
+        13
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "欖",
+      "after": "櫈",
+      "decision": "adopted",
+      "reason": "左木可見；右上為癶，下有豆部和几的轉折收筆；不見監與見，支持櫈。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b9f6ec75-d5e0-49fa-a4ae-80d6f6c0771c/full/full/0/default.jpg",
+      "source_sha256": "6fc52102d4c7b3c0f8b0c7e133dc419f2a12d5e439a211fde4e26544a71b27f4"
+    },
+    {
+      "case_id": "reader-note-b2-08--c068-u007-2",
+      "unit_id": "c068-u007",
+      "page_id": "c068",
+      "range": [
+        2,
+        3
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "橈",
+      "after": "櫈",
+      "decision": "adopted",
+      "reason": "右部上方為分開的癶筆，中有豆形、下有几轉折；非三土相疊的堯。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/f709423d-db1d-4557-8f73-0f4df05693a3/full/full/0/default.jpg",
+      "source_sha256": "8a014e51f7c9fe31afdf8425bd21713355f2ac03d698739c916f8dff3edaee00"
+    },
+    {
+      "case_id": "reader-note-b2-08--c093-u004-11",
+      "unit_id": "c093-u004",
+      "page_id": "c093",
+      "range": [
+        11,
+        12
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "橈",
+      "after": "櫈",
+      "decision": "adopted",
+      "reason": "紅號用棺之後此字左木、右上癶及下几可見；不讀堯旁。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+      "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a"
+    },
+    {
+      "case_id": "reader-note-b2-08--c093-u010-2",
+      "unit_id": "c093-u010",
+      "page_id": "c093",
+      "range": [
+        2,
+        3
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "橈",
+      "after": "櫈",
+      "decision": "adopted",
+      "reason": "棺下此字的右部上癶、中豆及底下几折筆可見，支持木凳的櫈。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+      "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a"
+    },
+    {
+      "case_id": "reader-note-b2-08--c096-u010-1",
+      "unit_id": "c096-u010",
+      "page_id": "c096",
+      "range": [
+        1,
+        2
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "橙",
+      "after": "櫈",
+      "decision": "adopted",
+      "reason": "棺下字除木與登外，底部仍有几的橫折彎鉤及左撇，不能刪作僅木登的橙。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg",
+      "source_sha256": "2d89a27cfefca1b57de5f68c3a7b99662ec961b362042fc9cf2e392800d727df"
+    },
+    {
+      "case_id": "reader-note-b2-08--c103-u010-1",
+      "unit_id": "c103-u010",
+      "page_id": "c103",
+      "range": [
+        1,
+        2
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "機",
+      "after": "櫈",
+      "decision": "adopted",
+      "reason": "用下小字可見木旁，右上癶、中豆、下几；不見幺幺戈的幾。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/79b5d9e4-4f60-4625-b9ee-b23b229bba4d/full/full/0/default.jpg",
+      "source_sha256": "4062c504bc6b35c7c0bcab125564e5cc68dc098502c6deb1555008ca678841e3"
+    },
+    {
+      "case_id": "reader-note-b2-09--c022-u003-1",
+      "unit_id": "c022-u003",
+      "page_id": "c022",
+      "range": [
+        1,
+        2
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "苦",
+      "after": "善",
+      "decision": "adopted",
+      "reason": "各下字上有羊形中豎與多橫，下口；不是艹十口的苦。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/200cf906-629e-4607-a3ac-b37a0ff0ad29/full/full/0/default.jpg",
+      "source_sha256": "fd5133c47abee77b9779bdb21100a473f5074bbd2d5bc388a049297db028bb7c"
+    },
+    {
+      "case_id": "reader-note-b2-10--c012-u008-8",
+      "unit_id": "c012-u008",
+      "page_id": "c012",
+      "range": [
+        8,
+        9
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "門",
+      "after": "西",
+      "decision": "adopted",
+      "reason": "橋下字為西：外框內兩直／撇筆，不見門的左右門扇；接北至。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/51ecb995-3762-4448-9180-79cf5395abb4/full/full/0/default.jpg",
+      "source_sha256": "da5220132dc1532a8e24cc07073122c839200609ffc80c8fc1a075364f0b6fb8"
+    },
+    {
+      "case_id": "reader-note-b2-11--c007-u007-18",
+      "unit_id": "c007-u007",
+      "page_id": "c007",
+      "range": [
+        18,
+        19
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "茅",
+      "after": "旁",
+      "decision": "adopted",
+      "reason": "堂下字上為立／亠形與冖，下為方的斜撇折鉤，不見茅的艹矛結構；支持旁。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg",
+      "source_sha256": "7ec0f8fb6af99223d10f21348e9818026261b3e6b4e3e5e3771125ea760a86ed"
+    },
+    {
+      "case_id": "reader-note-b2-16--c023-u012-1",
+      "unit_id": "c023-u012",
+      "page_id": "c023",
+      "range": [
+        1,
+        2
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "圻",
+      "after": "坪",
+      "decision": "adopted",
+      "reason": "春下字右旁上橫、中有兩點／撇並由長豎穿過橫畫，為平；不是斤的斜撇及豎結構。左土保留。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/edb7c609-cd20-47ae-baf6-1d343c5c94b9/full/full/0/default.jpg",
+      "source_sha256": "50809c660428193670ec5536746c4e1a7c5e802e28a58f158720eb458c877232"
+    },
+    {
+      "case_id": "reader-note-b2-04--c095-u019-4",
+      "unit_id": "c095-u019",
+      "page_id": "c095",
+      "range": [
+        4,
+        5
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "六",
+      "after": "六",
+      "decision": "source-reading-retained",
+      "reason": "原印六字頂部點與橫、下部兩筆均可見；非八。讀者提出142×880的數學吻合不足以把原刻六改八。可另記原書單價/總額不相符。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0c66d4bb-e986-468c-a14f-8746b082e71d/full/full/0/default.jpg",
+      "source_sha256": "e88ddf6ab493a32233684e72a7b4b98f2b2d1316e69dd718a84da1549f9e426a"
+    },
+    {
+      "case_id": "reader-note-b2-06--c096-u002-2",
+      "unit_id": "c096-u002",
+      "page_id": "c096",
+      "range": [
+        2,
+        3
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "二",
+      "after": "二",
+      "decision": "source-reading-retained",
+      "reason": "每具下原有上下兩橫，接百八十文；單價原刻二百八十，不因142×180吻合改一百八十。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg",
+      "source_sha256": "2d89a27cfefca1b57de5f68c3a7b99662ec961b362042fc9cf2e392800d727df"
+    },
+    {
+      "case_id": "reader-note-b2-07--c093-u008-0",
+      "unit_id": "c093-u008",
+      "page_id": "c093",
+      "range": [
+        0,
+        6
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "一百八十二具",
+      "after": "一百八十二具",
+      "decision": "source-reading-retained",
+      "reason": "小字依序可見一、百、八、十、二、具；末數二具有兩橫。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+      "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a"
+    },
+    {
+      "case_id": "reader-note-b2-07--c093-u009-3",
+      "unit_id": "c093-u009",
+      "page_id": "c093",
+      "range": [
+        3,
+        6
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "十六具",
+      "after": "十六具",
+      "decision": "source-reading-retained",
+      "reason": "上年存後為十與六；六有頂點和下部兩筆。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+      "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a"
+    },
+    {
+      "case_id": "reader-note-b2-07--c093-u007-7",
+      "unit_id": "c093-u007",
+      "page_id": "c093",
+      "range": [
+        7,
+        13
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "一百八十八具",
+      "after": "一百八十八具",
+      "decision": "source-reading-retained",
+      "reason": "賒出後兩個八均為分開的撇捺，無二或九的筆畫。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+      "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a"
+    },
+    {
+      "case_id": "reader-note-b2-07--c093-u007-15",
+      "unit_id": "c093-u007",
+      "page_id": "c093",
+      "range": [
+        15,
+        16
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "九",
+      "after": "九",
+      "decision": "source-reading-retained",
+      "reason": "實存後為九：彎鉤和斜撇可見；非十字交叉。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+      "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a"
+    },
+    {
+      "case_id": "reader-note-b2-08--c088-u003-0",
+      "unit_id": "c088-u003",
+      "page_id": "c088",
+      "range": [
+        0,
+        1
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "櫈",
+      "after": "櫈",
+      "decision": "source-reading-retained",
+      "reason": "此處木旁、登下几收筆清楚，保留現有櫈，不以他處異讀改本處。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f5399fd-6813-4034-9a50-e14fd929c73e/full/full/0/default.jpg",
+      "source_sha256": "aa35cfe1838890143e3a60ead9b900be3b880a3f10a1140959d28b4f5eb1441f"
+    },
+    {
+      "case_id": "reader-note-b2-11--c007-u007-12",
+      "unit_id": "c007-u007",
+      "page_id": "c007",
+      "range": [
+        12,
+        13
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "損",
+      "after": "損",
+      "decision": "source-reading-retained",
+      "reason": "右部口下是帶內橫與八腳的貝，為員旁；不是下部月的肙，故保留損。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg",
+      "source_sha256": "7ec0f8fb6af99223d10f21348e9818026261b3e6b4e3e5e3771125ea760a86ed"
+    },
+    {
+      "case_id": "reader-note-b2-12--c004-u003-17",
+      "unit_id": "c004-u003",
+      "page_id": "c004",
+      "range": [
+        17,
+        18
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "願",
+      "after": "願",
+      "decision": "source-reading-retained",
+      "reason": "又下字左部可見厂覆白及下部小筆，與原旁相應；右頁清楚，保留願。未見可確立雇旁的隹多橫。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ca0f1853-86e0-4c94-a689-db968e251d20/full/full/0/default.jpg",
+      "source_sha256": "9adeaa6378e072446631e8c993d6f941cd8253ec8f7b711187a53428ff6dd0be"
+    },
+    {
+      "case_id": "reader-note-b2-13--c019-u008-13",
+      "unit_id": "c019-u008",
+      "page_id": "c019",
+      "range": [
+        13,
+        14
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "檯",
+      "after": "檯",
+      "decision": "source-reading-retained",
+      "reason": "此字左旁有木的中豎、橫與左右分筆；右臺完整。不是扌的三筆，保留檯材。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3eb1f985-0b85-4190-bbe1-7b7b59e21b7f/full/full/0/default.jpg",
+      "source_sha256": "ccbbfc078e5a5e2f6bf47b55ec3bc9f83daa3d8a01d6808b3e6592355f327534"
+    },
+    {
+      "case_id": "reader-note-b2-14--c011-u002-4",
+      "unit_id": "c011-u002",
+      "page_id": "c011",
+      "range": [
+        4,
+        5
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "壹",
+      "after": "壹",
+      "decision": "source-reading-retained",
+      "reason": "尺後字上士、冖下豆形；與前面的壹同形，未見叁的上參及下三筆。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b9f6ec75-d5e0-49fa-a4ae-80d6f6c0771c/full/full/0/default.jpg",
+      "source_sha256": "6fc52102d4c7b3c0f8b0c7e133dc419f2a12d5e439a211fde4e26544a71b27f4"
+    },
+    {
+      "case_id": "reader-note-b2-15--c007-u002-16",
+      "unit_id": "c007-u002",
+      "page_id": "c007",
+      "range": [
+        16,
+        17
+      ],
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "before": "貞",
+      "after": "貞",
+      "decision": "source-reading-retained",
+      "reason": "沈下字上卜，下貝含雙腳；頂部不是山／日，下部不見比，保留貞。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg",
+      "source_sha256": "7ec0f8fb6af99223d10f21348e9818026261b3e6b4e3e5e3771125ea760a86ed"
+    }
+  ],
+  "resolved_uncertainties": "UNCERTAINTY-HISTORY.json",
+  "scope": "Specified source decisions only; candidates exposed. No new image reading by packager, full-book independent recollation, human/expert review or measured accuracy is claimed."
+}

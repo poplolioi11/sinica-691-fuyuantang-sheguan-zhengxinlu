@@ -1,30 +1,25 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": [
     {
-      "path": ".github/ISSUE_TEMPLATE/config.yml",
-      "bytes": 27,
-      "sha256": "13064e7bea658e01e718b414fbb7b3b244f36411fe25ee2055c151f7b534547a"
-    },
-    {
-      "path": ".github/ISSUE_TEMPLATE/correction.yml",
-      "bytes": 805,
-      "sha256": "06e7b2907c1f4bee26f4304d4d3d4e2a59624e1d29c8c544e2e3a7c84f249c32"
-    },
-    {
       "path": "CHANGELOG.md",
-      "bytes": 298,
-      "sha256": "3be25b60046045898b9b2b22daa70a7849f39da39eba9cde21da37d15434c1f7"
+      "bytes": 478,
+      "sha256": "f20c4919620b54689050ba1e32491b21db6a255feea81540fc0791f004079474"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1467,
-      "sha256": "f758e2791e820a57be8b5a177eedf9694f38d7b3619dfe4c66f0915e57744169"
+      "bytes": 2050,
+      "sha256": "03e30a055872fe10c4c6900964822c0691056a936e50ca6becdaf1902e0a9a5d"
+    },
+    {
+      "path": "CORRECTIONS.json",
+      "bytes": 18313,
+      "sha256": "e35c2c6920e674980cdc7fb9d728054b91ea4c927ba8739e9be480591c98d812"
     },
     {
       "path": "CORRECTIONS.md",
-      "bytes": 752,
-      "sha256": "b71c6a964674c888edf528ab36f96e1824a771af3ab51ad301b80a60ca00c827"
+      "bytes": 7346,
+      "sha256": "c980e5f645212f9a80bc015c1c050bf577e3feae96059aa9ea3f2432cc0e8382"
     },
     {
       "path": "LICENSE.md",
@@ -38,28 +33,43 @@
     },
     {
       "path": "PROVENANCE.md",
-      "bytes": 1593,
-      "sha256": "189b38ac741a2ba30c1debf69123eb4581a14cf4de0523e776080810ab4af738"
+      "bytes": 1959,
+      "sha256": "b250995e0bcb23a45d886af1ddd480089737a6ca6cfbbb7bcce5dabadf6cb62f"
+    },
+    {
+      "path": "PUBLIC-FILES.txt",
+      "bytes": 479,
+      "sha256": "ce38c96e89799db45f8166c5e8d79980eabdc3e4e6d272c6c7f6807799afd7a1"
     },
     {
       "path": "PUBLIC-SCOPE.json",
-      "bytes": 1414,
-      "sha256": "8a7a84b2452f6d3d034487532b1bf8c584f53845475dda42d7bed9659b0d8526"
+      "bytes": 1598,
+      "sha256": "ea5498863f1bfeb1a4a77f470f0925afec66cc06193a6fe99afef60010e3c94a"
+    },
+    {
+      "path": "QUALITY-AND-CONTRIBUTIONS.md",
+      "bytes": 1016,
+      "sha256": "52d3cd1c81d177514d7cf651a067b5de1689fe8ce03bba919b0d6b91f6aa25ce"
     },
     {
       "path": "QUALITY.md",
-      "bytes": 2234,
-      "sha256": "9b146e40006b153e871710b13d8d356e0963a00d087cd9e2c9ca806068e26a45"
+      "bytes": 487,
+      "sha256": "cea68500a075e371cbc7c61f746b74fb2e4a4519f3f0690002e9ebf16c355d1c"
     },
     {
       "path": "READING.md",
-      "bytes": 173799,
-      "sha256": "dba2e61bc791f9288befdaf53718d71f65e98f1f70b747e3139541db87f14c40"
+      "bytes": 172954,
+      "sha256": "460adeeafe57cc2985a3ccf51de444fde763a76b232dc5df6e9a84075d7c96bb"
     },
     {
       "path": "README.md",
-      "bytes": 8516,
-      "sha256": "10cf03f79b5cf897c99b34a4a3cd9afbd4dc5b662cd41ffe95ddc79e9a55603b"
+      "bytes": 3620,
+      "sha256": "ff04bd7afbff868987431a50671fd12d37770c5869e8a434eb282b597cb84583"
+    },
+    {
+      "path": "SCHEMA.json",
+      "bytes": 933,
+      "sha256": "713c0aab57445d6bd5a7925176514415d0fcac38bf94dfb439029954c7d28e1e"
     },
     {
       "path": "TRANSCRIPTION-POLICY.md",
@@ -67,9 +77,19 @@
       "sha256": "06441e79d2314c353a6aeeb394e1ffd63353604dca8dd17c45b7c00b6f5f508e"
     },
     {
+      "path": "UNCERTAINTY-HISTORY.json",
+      "bytes": 8678,
+      "sha256": "04904181d4777d5a53821f310e22fe945d851e607fe9852deadc535b93648d93"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 1229,
+      "sha256": "1e3739198316e00ab779a89c39c6c58686238090ba77aee328fbf9681affe5c8"
+    },
+    {
       "path": "VERIFICATION.json",
-      "bytes": 626,
-      "sha256": "887ad59daea467fda4bf46f1f179d7881f708b9db821d8fa57ebd57a52487147"
+      "bytes": 335,
+      "sha256": "85367b93975b4a8ac6a2371b7afc078749dcd77a626c61ce610f6e79f8b1ffb3"
     },
     {
       "path": "gaps.json",
@@ -77,24 +97,29 @@
       "sha256": "455cd8bf959265cd6cf01621e2305569fc81a72868a211034fc69004a75f41c1"
     },
     {
-      "path": "quality.json",
+      "path": "quality-history-v0.1.0.json",
       "bytes": 1245,
       "sha256": "ced0f5ccae3969745d6ce612445e17bc489f7c406fff83eff75f8653b826493a"
     },
     {
+      "path": "quality.json",
+      "bytes": 545,
+      "sha256": "7a2a09d1772bca28c704044c8868407b566b8f27e2bea6b93ae35229c16d17bd"
+    },
+    {
       "path": "sinica691.json",
-      "bytes": 545689,
-      "sha256": "1e01fbbdaa4bacd11911c484b4a5a7e9c921d9b873bc37076fe70875bf503bb6"
+      "bytes": 545657,
+      "sha256": "e502f4815949283b51f0888555a191e4a205af344200cfef92d2042b4fc681a0"
     },
     {
       "path": "sinica691.tei.xml",
-      "bytes": 248441,
-      "sha256": "06bea7f02c43ed8f8796f2591e6ac2f524abe1e4a2a05c160b96620539497461"
+      "bytes": 253223,
+      "sha256": "ee5c09f0b400c618b605f4caecb29b9ea7c71b1a2f5c758463a4cb61b81597e1"
     },
     {
       "path": "sinica691.txt",
       "bytes": 45760,
-      "sha256": "9d932d602cf98e8e2eeeb069c58485940a75aa5a69ecabaeb79c1e01e9a830a1"
+      "sha256": "02abd75f047a6a45473e3b85b8d9d5f2cc51759fbc3112f18a090c70d6f51651"
     },
     {
       "path": "sources.tsv",
@@ -104,18 +129,18 @@
     {
       "path": "text-offsets.json",
       "bytes": 173923,
-      "sha256": "f9b749eb2ab77221fa7c026a63b00b00a0ebc7032aeb266b8371e98d61b9133c"
+      "sha256": "7f9f1b5889bc519bcfaa99db6461fff27a24109b9e28d9e29274aea4f82012f8"
     },
     {
       "path": "uncertainties.json",
-      "bytes": 176109,
-      "sha256": "52285ad2a4bda564cf154f83aa83437bc7b516b6f7630efe12baa17334a0b976"
+      "bytes": 170634,
+      "sha256": "3c0eafa7894022bef0ed35c7c4269743dbda2a958dc10206a48f47ed8e8389eb"
     },
     {
       "path": "uncertainties.tsv",
-      "bytes": 55361,
-      "sha256": "9c6c71ed834b6936c621831ca2f0ef88b211b07b9bf4f91b2edb5699ef4f918e"
+      "bytes": 53565,
+      "sha256": "7a60b24bebcabc3459a3a26e4ab1ee1429d5af558757eecac727be420876e7a6"
     }
   ],
-  "self_hash": "not included; avoids circular self-hash"
+  "self_hash": "MANIFEST.json and SHA256SUMS excluded here to avoid circular digests; SHA256SUMS binds this manifest."
 }

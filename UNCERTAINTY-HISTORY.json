@@ -1,0 +1,267 @@
+{
+  "schema": "resolved-uncertainty-history/1",
+  "base_version": "0.1.0",
+  "result_version": "0.1.1",
+  "resolved_records": [
+    {
+      "id": "c007-u007-unc-000",
+      "before_record": {
+        "id": "c007-u007-unc-000",
+        "page_id": "c007",
+        "unit_id": "c007-u007",
+        "needle": "茅",
+        "span": [
+          18,
+          19
+        ],
+        "candidate_spans": [
+          [
+            18,
+            19
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/96a34303-68bb-4283-9ed4-7e6a4d35f86d/full/full/0/default.jpg",
+        "source_sha256": "7ec0f8fb6af99223d10f21348e9818026261b3e6b4e3e5e3771125ea760a86ed",
+        "candidates": [
+          "茅",
+          "旁"
+        ],
+        "reason": "頂似艹、下似矛，但上部細筆仍保留旁候選"
+      },
+      "resolved_reading": "旁",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c011-u007-unc-000",
+      "before_record": {
+        "id": "c011-u007-unc-000",
+        "page_id": "c011",
+        "unit_id": "c011-u007",
+        "needle": "欖",
+        "span": [
+          12,
+          13
+        ],
+        "candidate_spans": [
+          [
+            12,
+            13
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/b9f6ec75-d5e0-49fa-a4ae-80d6f6c0771c/full/full/0/default.jpg",
+        "source_sha256": "6fc52102d4c7b3c0f8b0c7e133dc419f2a12d5e439a211fde4e26544a71b27f4",
+        "candidates": [
+          "欖",
+          "櫬"
+        ],
+        "reason": "木旁右上雙斜叉、右下見狀，均不能完整支持監或親；暫列欖並保留櫬，可能尚有其他字"
+      },
+      "resolved_reading": "櫈",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c068-u007-unc-000",
+      "before_record": {
+        "id": "c068-u007-unc-000",
+        "page_id": "c068",
+        "unit_id": "c068-u007",
+        "needle": "橈",
+        "span": [
+          2,
+          3
+        ],
+        "candidate_spans": [
+          [
+            2,
+            3
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f709423d-db1d-4557-8f73-0f4df05693a3/full/full/0/default.jpg",
+        "source_sha256": "8a014e51f7c9fe31afdf8425bd21713355f2ac03d698739c916f8dff3edaee00",
+        "candidates": [
+          "橈",
+          "槐",
+          "槻",
+          "櫈"
+        ],
+        "reason": "右部上疊橫及下兀形較支持堯，仍無法排除細筆相近候選，不據前頁用途統一。"
+      },
+      "resolved_reading": "櫈",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c092-u012-unc-000",
+      "before_record": {
+        "id": "c092-u012-unc-000",
+        "page_id": "c092",
+        "unit_id": "c092-u012",
+        "needle": "二百",
+        "span": [
+          1,
+          3
+        ],
+        "candidate_spans": [
+          [
+            1,
+            3
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ecd74d9c-95ef-4665-bfb0-57b441a3ae6c/full/full/0/default.jpg",
+        "source_sha256": "132dee9266d0eb7f157ec8008bd508e7bbb1c8a2d7e8e468b2d6d90dd3bd0b91",
+        "candidates": [
+          "一百"
+        ],
+        "reason": "百前上橫為短碎墨痕，下橫較長；不能完全排除前者為殘墨，暫讀二百但留一百。"
+      },
+      "resolved_reading": "一百",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c093-u004-unc-001",
+      "before_record": {
+        "id": "c093-u004-unc-001",
+        "page_id": "c093",
+        "unit_id": "c093-u004",
+        "needle": "橈",
+        "span": [
+          11,
+          12
+        ],
+        "candidate_spans": [
+          [
+            11,
+            12
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+        "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a",
+        "candidates": [
+          "櫈",
+          "橙"
+        ],
+        "reason": "右部上方橫土樣疊筆、下有兀樣分筆，暫讀橈；細部淡印留櫈、橙候選。"
+      },
+      "resolved_reading": "櫈",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c093-u010-unc-000",
+      "before_record": {
+        "id": "c093-u010-unc-000",
+        "page_id": "c093",
+        "unit_id": "c093-u010",
+        "needle": "橈",
+        "span": [
+          2,
+          3
+        ],
+        "candidate_spans": [
+          [
+            2,
+            3
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/1b517885-3f2d-498d-80eb-83fd80e4a339/full/full/0/default.jpg",
+        "source_sha256": "59dc8f367b3200f6dfc9cd561cce0530f70846d3d5f4afd86b992d46ebbb306a",
+        "candidates": [
+          "櫈",
+          "橙"
+        ],
+        "reason": "木旁右件上層交橫、底分筆，暫讀橈但細筆不清。"
+      },
+      "resolved_reading": "櫈",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c096-u001-unc-000",
+      "before_record": {
+        "id": "c096-u001-unc-000",
+        "page_id": "c096",
+        "unit_id": "c096-u001",
+        "needle": "貳",
+        "span": [
+          10,
+          11
+        ],
+        "candidate_spans": [
+          [
+            10,
+            11
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg",
+        "source_sha256": "2d89a27cfefca1b57de5f68c3a7b99662ec961b362042fc9cf2e392800d727df",
+        "candidates": [
+          "貳",
+          "貞"
+        ],
+        "reason": "五百後字上部與右上斜筆不清，暫讀貳，未由帳額推算。"
+      },
+      "resolved_reading": "六",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "c096-u010-unc-000",
+      "before_record": {
+        "id": "c096-u010-unc-000",
+        "page_id": "c096",
+        "unit_id": "c096-u010",
+        "needle": "橙",
+        "span": [
+          1,
+          2
+        ],
+        "candidate_spans": [
+          [
+            1,
+            2
+          ]
+        ],
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "location_status": "exact-in-unit",
+        "source_image": "https://iiif.bodleian.ox.ac.uk/iiif/image/1cecdcc2-1f93-4d99-8bdd-e47966b6b8bc/full/full/0/default.jpg",
+        "source_sha256": "2d89a27cfefca1b57de5f68c3a7b99662ec961b362042fc9cf2e392800d727df",
+        "candidates": [
+          "橙",
+          "櫈"
+        ],
+        "reason": "木旁右部似登，照可見字形暫錄橙。"
+      },
+      "resolved_reading": "櫈",
+      "reason": "指定原圖裁定已支持此範圍；只移出本ID，不移除同單元其他疑讀。",
+      "version": "0.1.1",
+      "date": "2026-11-12"
+    }
+  ],
+  "unchanged_active_old_records": 255,
+  "new_unresolved_records": 0,
+  "note": "Only exact resolved IDs moved out of active list; original records preserved here. No human/expert collation claim."
+}

@@ -4,7 +4,7 @@
   "leaves": null,
   "included_units": 1613,
   "faithful_codepoints": 14716,
-  "uncertainty_records": 263,
+  "uncertainty_records": 255,
   "source_gap_records": 4,
   "excluded_units": [
     {
@@ -41,5 +41,12 @@
     }
   ],
   "excluded_uncertainty_records": 6,
-  "note": "8個非作品單位及其6筆疑讀依公開範圍排除；未改動保留單位的字串、順序或角色。108頁來源仍全部列出。"
+  "note": "8個非作品單位及其6筆疑讀依公開範圍排除；未改動保留單位的字串、順序或角色。108頁來源仍全部列出。",
+  "targeted_revision": {
+    "version": "0.1.1",
+    "changed_codepoints": 16,
+    "changed_units": 15,
+    "proposal_groups": 16,
+    "full_book_second_collation": "not-claimed"
+  }
 }

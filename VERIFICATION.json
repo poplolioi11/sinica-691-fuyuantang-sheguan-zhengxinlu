@@ -1,22 +1,9 @@
 {
-  "schema": "sinica691-public-projection-verification/1",
-  "scope": "r3 selected units excluding 8 explicit non-work marks",
-  "included_unit_strings_order_roles": "passed",
-  "public_units": 1613,
-  "faithful_codepoints": 14716,
-  "uncertainty_records": 263,
-  "source_gaps": 4,
-  "gap_extents_unknown": true,
-  "gap_counts": {
-    "c090": 3,
-    "c094": 1
-  },
-  "text_roundtrip": "passed",
-  "tei_unit_text_roundtrip": "passed",
-  "tei_xml_parse": "passed",
-  "tei_relaxng": "not-run",
-  "human_double_collation": "not-run",
-  "expert_review": "not-run",
-  "accuracy_rate": null,
-  "traceability_status": "incomplete"
+  "version": "0.1.1",
+  "status": "passed-structural-checks-only",
+  "validation": "VALIDATION.json",
+  "core_json_sha256": "e502f4815949283b51f0888555a191e4a205af344200cfef92d2042b4fc681a0",
+  "tei_schema": "TEI P5 RNG 4.12.0 passed",
+  "source_images_reinterpreted_in_packaging": false,
+  "no_human_or_expert_review_claim": true
 }

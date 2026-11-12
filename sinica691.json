@@ -1,9 +1,9 @@
 {
   "schema": "sinica691-public-text/1",
   "id": "sinica691",
-  "title": "上洋輔元堂賒棺局徵信錄",
-  "version": "0.1.0",
-  "release_date": "2026-11-01",
+  "title": "上洋輔元堂賒棺局徵信錄(刊年待核;Bodleian Sinica 691) / Shang yang fu yuan tang she guan ju zheng xin lu [Accountability register of the Fuyuantang coffin-charity bureau]: Transcription dataset",
+  "version": "0.1.1",
+  "release_date": "2026-11-12",
   "source": {
     "institution": "Bodleian Libraries, University of Oxford",
     "shelfmark": "Sinica 691",
@@ -22,7 +22,7 @@
     "orcid": "https://orcid.org/0009-0003-9738-6914",
     "role": "modern AI-assisted transcription and curation; not the historical author"
   },
-  "review_level": "AI-assisted initial transcription with independent AI image reading and source adjudication; no human double collation or expert review",
+  "review_level": "AI-assisted initial transcription followed by non-blind targeted revisions to 16 reader-proposal groups; no new full-book independent second collation, human double collation or expert review is claimed.",
   "pages": [
     {
       "id": "c001",
@@ -4364,12 +4364,10 @@
       "page_id": "c007",
       "layer": "faithful",
       "role": "body",
-      "text": "成殮惠等誼殷桑梓推廣同仁損資借同仁堂茅屋",
+      "text": "成殮惠等誼殷桑梓推廣同仁損資借同仁堂旁屋",
       "bbox": null,
       "order": 47,
-      "uncertainty_ids": [
-        "c007-u007-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -4899,12 +4897,10 @@
       "page_id": "c011",
       "layer": "faithful",
       "role": "body",
-      "text": "發不論遠近定例四佰文如用欖者另加錢貳佰文倘",
+      "text": "發不論遠近定例四佰文如用櫈者另加錢貳佰文倘",
       "bbox": null,
       "order": 94,
-      "uncertainty_ids": [
-        "c011-u007-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -5059,7 +5055,7 @@
       "page_id": "c012",
       "layer": "faithful",
       "role": "body",
-      "text": "日暉橋西至八字橋門北至靜安寺北至新閘若遠隔",
+      "text": "日暉橋西至八字橋西北至靜安寺北至新閘若遠隔",
       "bbox": null,
       "order": 108,
       "uncertainty_ids": [],
@@ -6179,7 +6175,7 @@
       "page_id": "c022",
       "layer": "faithful",
       "role": "body",
-      "text": "各苦姓樂輸小愿每賒出一具一愿收錢五文惟是賒例",
+      "text": "各善姓樂輸小愿每賒出一具一愿收錢五文惟是賒例",
       "bbox": null,
       "order": 206,
       "uncertainty_ids": [],
@@ -6366,7 +6362,7 @@
       "page_id": "c023",
       "layer": "faithful",
       "role": "note",
-      "text": "春圻",
+      "text": "春坪",
       "bbox": null,
       "order": 223,
       "uncertainty_ids": [],
@@ -14805,7 +14801,7 @@
       "page_id": "c062",
       "layer": "faithful",
       "role": "note",
-      "text": "副號二百七十五具",
+      "text": "副號一百七十五具",
       "bbox": null,
       "order": 977,
       "uncertainty_ids": [],
@@ -16083,12 +16079,10 @@
       "page_id": "c068",
       "layer": "faithful",
       "role": "body",
-      "text": "共出橈十四對",
+      "text": "共出櫈十四對",
       "bbox": null,
       "order": 1089,
-      "uncertainty_ids": [
-        "c068-u007-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -20118,12 +20112,10 @@
       "page_id": "c092",
       "layer": "faithful",
       "role": "note",
-      "text": "副二百四十二",
+      "text": "副一百四十二",
       "bbox": null,
       "order": 1441,
-      "uncertainty_ids": [
-        "c092-u012-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -20201,12 +20193,11 @@
       "page_id": "c093",
       "layer": "faithful",
       "role": "table",
-      "text": "另善姓給紅號用三十八具橈二對實存十二具",
+      "text": "另善姓給紅號用三十八具櫈二對實存十二具",
       "bbox": null,
       "order": 1448,
       "uncertainty_ids": [
-        "c093-u004-unc-000",
-        "c093-u004-unc-001"
+        "c093-u004-unc-000"
       ],
       "gap_ids": []
     },
@@ -20270,12 +20261,10 @@
       "page_id": "c093",
       "layer": "faithful",
       "role": "table",
-      "text": "收棺橈用去實在二十九對",
+      "text": "收棺櫈用去實在二十九對",
       "bbox": null,
       "order": 1454,
-      "uncertainty_ids": [
-        "c093-u010-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -20717,12 +20706,10 @@
       "page_id": "c096",
       "layer": "faithful",
       "role": "table",
-      "text": "鋸工足錢二十五千五百貳十文",
+      "text": "鋸工足錢二十五千五百六十文",
       "bbox": null,
       "order": 1492,
-      "uncertainty_ids": [
-        "c096-u001-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -20807,7 +20794,7 @@
       "page_id": "c096",
       "layer": "faithful",
       "role": "note",
-      "text": "二百六十具",
+      "text": "一百六十具",
       "bbox": null,
       "order": 1500,
       "uncertainty_ids": [],
@@ -20818,12 +20805,10 @@
       "page_id": "c096",
       "layer": "faithful",
       "role": "table",
-      "text": "棺橙足錢二千文",
+      "text": "棺櫈足錢二千文",
       "bbox": null,
       "order": 1501,
-      "uncertainty_ids": [
-        "c096-u010-unc-000"
-      ],
+      "uncertainty_ids": [],
       "gap_ids": []
     },
     {
@@ -21688,7 +21673,7 @@
       "page_id": "c103",
       "layer": "faithful",
       "role": "table",
-      "text": "一收十文愿捐共足錢一千六百三十六千八百零八文",
+      "text": "一收十文愿捐共足錢一千八百三十八千八百零八文",
       "bbox": null,
       "order": 1577,
       "uncertainty_ids": [],
@@ -21745,7 +21730,7 @@
       "page_id": "c103",
       "layer": "faithful",
       "role": "note",
-      "text": "用機二對",
+      "text": "用櫈二對",
       "bbox": null,
       "order": 1582,
       "uncertainty_ids": [],

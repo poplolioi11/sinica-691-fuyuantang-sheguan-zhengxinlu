@@ -1,6 +1,6 @@
 {
   "text_file": "sinica691.txt",
-  "text_sha256": "9d932d602cf98e8e2eeeb069c58485940a75aa5a69ecabaeb79c1e01e9a830a1",
+  "text_sha256": "02abd75f047a6a45473e3b85b8d9d5f2cc51759fbc3112f18a090c70d6f51651",
   "offset_basis": "unicode-codepoint-0-half-open",
   "separator": "one LF between successive included units; not supplied source punctuation",
   "units": [

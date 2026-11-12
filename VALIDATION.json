@@ -1,0 +1,35 @@
+{
+  "version": "0.1.1",
+  "status": "passed-structural-checks-only",
+  "counts": {
+    "units": 1613,
+    "codepoints": 14716,
+    "active_uncertainties": 255,
+    "resolved_uncertainty_history_records": 8,
+    "changed_codepoints": 16,
+    "changed_units": 15,
+    "targeted_occurrences": 28
+  },
+  "checks": {
+    "all_unit_json_txt_tei": "passed",
+    "exact_approved_ranges_only": "passed",
+    "unit_order_unchanged": "passed",
+    "json_schema": "passed",
+    "CFF_1_2_schema": "passed",
+    "TEI_P5_RNG_4_12": "passed",
+    "source_index_and_gaps_unchanged": "passed",
+    "fixed_base_and_main_readback_unchanged": "passed",
+    "reader_projections": "passed",
+    "text_publication_policy": "allowed-as-recorded",
+    "targeted_annotations": "valid-but-incomplete"
+  },
+  "quality_limit": "No new source judgment, human/expert review, full-book second collation or measured accuracy. Traceability is incomplete where actual native model/history are unavailable.",
+  "traceability": {
+    "status": "incomplete",
+    "pending_counts": {
+      "unknown-model": 15,
+      "unmapped-legacy-issue": 2
+    },
+    "note": "Native model identity was unavailable. Unrelated inherited uncertainty mapping is not fabricated."
+  }
+}

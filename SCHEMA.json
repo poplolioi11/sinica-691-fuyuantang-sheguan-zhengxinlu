@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "schema",
+    "id",
+    "title",
+    "version",
+    "source",
+    "pages",
+    "units"
+  ],
+  "properties": {
+    "schema": {
+      "const": "sinica691-public-text/1"
+    },
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "page_id",
+          "text",
+          "order",
+          "uncertainty_ids",
+          "gap_ids"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "order": {
+            "type": "integer"
+          },
+          "uncertainty_ids": {
+            "type": "array"
+          },
+          "gap_ids": {
+            "type": "array"
+          }
+        }
+      }
+    },
+    "pages": {
+      "type": "array"
+    }
+  }
+}

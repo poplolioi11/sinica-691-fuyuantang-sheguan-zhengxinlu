@@ -1,31 +1,19 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "base_version": "0.1.0",
   "source_images": 108,
-  "numbered_physical_surfaces": 104,
-  "initial_observations": 108,
-  "independent_AI_image_observations": 108,
-  "AI_source_adjudication_coverage": 108,
   "public_units": 1613,
   "faithful_codepoints": 14716,
-  "uncertainty_records": 263,
+  "uncertainty_records": 255,
   "source_gap_records": 4,
+  "targeted_proposal_groups": 16,
+  "targeted_changed_codepoints": 16,
+  "targeted_changed_units": 15,
+  "full_book_second_collation": "not-claimed",
   "human_double_collation": "not-run",
   "expert_review": "not-run",
-  "accuracy_rate": null,
-  "CER": null,
+  "accuracy_measured": false,
   "traceability_status": "incomplete",
-  "traceability_limitations": [
-    "Actual native GPT model identifiers were unavailable; requested tiers are not substituted for actual identity.",
-    "One earlier independent raw metadata version for c022 is unavailable; the fixed text snapshot used by source adjudication survives.",
-    "Four earlier intermediate metadata versions changed with identical faithful strings; previous records were preserved."
-  ],
-  "actual_models": {
-    "native_GPT": null,
-    "Gemini_bridge": "gemini-3.8-flash-high"
-  },
-  "source_cloud_byte_checks": "108/108 passed in private production record; source scans excluded from public package",
-  "text_and_XML_checks": "passed",
-  "TEI_Relax_NG": "not-run",
-  "methods_private": true,
-  "complete_image_to_text_reproduction_provided": false
+  "actual_model": null,
+  "history": "quality-history-v0.1.0.json"
 }
